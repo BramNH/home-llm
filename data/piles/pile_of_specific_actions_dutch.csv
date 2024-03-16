@@ -1,0 +1,601 @@
+service_name,device_name,dutch_phrase
+blinds.close,keuken,Laat de keukenrolgordijnen zakken
+blinds.close,woonkamer,Sluit de jaloezieën in de woonkamer
+blinds.close,hoofdslaapkamer,Sluit de jaloezieën van de hoofdslaapkamer
+blinds.open,keuken,Kun je de keukenjaloezieën omhoog doen?
+blinds.open,woonkamer,Open de zonwering in de woonkamer
+blinds.open,hoofdslaapkamer,Til de jaloezieën van de hoofdslaapkamer op
+blinds.stop,keuken,Stop de keukenrolgordijnen waar ze zijn
+blinds.stop,woonkamer,Stop met het verstellen van de jaloezieën in de woonkamer
+blinds.stop,hoofdslaapkamer,Stop alstublieft de zonwering in de hoofdslaapkamer
+blinds.toggle,keuken,Verander de status van de keukenzonwering
+blinds.toggle,woonkamer,Schakel de jaloezieën in de woonkamer in
+blinds.toggle,hoofdslaapkamer,Draai de jaloezieën van de hoofdslaapkamer om
+fan.decrease_speed,zolder_1,Vertraag de zolderventilator
+fan.decrease_speed,zolder_1,Zet de zolderventilator lager
+fan.decrease_speed,zolder,Vertraag de ventilator op zolder
+fan.decrease_speed,slaapkamer_master,Vertraag de ventilator in de slaapkamer
+fan.decrease_speed,garage,Zet de ventilator in de garage zachter
+fan.decrease_speed,gast_kamer,Verlaag de ventilatorsnelheid in de logeerkamer
+fan.decrease_speed,gang,Verlaag de ventilatorsnelheid in de gang
+fan.decrease_speed,keuken,Zet de keukenventilator langzamer
+fan.decrease_speed,keuken,Zet de keukenventilator lager
+fan.decrease_speed,woonkamer,Verlaag de snelheid van de ventilator in de woonkamer
+fan.decrease_speed,woonkamer,Zet de ventilator in de woonkamer lager
+fan.decrease_speed,studie,Verlaag de ventilatorsnelheid in het onderzoek
+fan.increase_speed,zolder_1,Verhoog de snelheid van de zolderventilator
+fan.increase_speed,zolder,Versnel de ventilator op zolder
+fan.increase_speed,slaapkamer_master,Verhoog de snelheid van de ventilator in de slaapkamer
+fan.increase_speed,garage,Zet de ventilator in de garage hoger
+fan.increase_speed,gast_kamer,Verhoog de ventilatorsnelheid in de logeerkamer
+fan.increase_speed,gang,Verhoog de ventilatorsnelheid in de gang
+fan.increase_speed,woonkamer,Verhoog de snelheid van de woonkamerventilator
+fan.increase_speed,studie,Verhoog de ventilatorsnelheid in het onderzoek
+fan.toggle,zolder_2,Schakel de zolderventilator in
+fan.toggle,zolder,Verander de ventilatorstatus op zolder
+fan.toggle,kelder,Schakel de kelderventilator in
+fan.toggle,slaapkamer_master,Schakel de status van de ventilator in de hoofdslaapkamer
+fan.toggle,slaapkamer,Schakel de slaapkamerventilator in
+fan.toggle,eettafel_boven,Schakel de ventilator boven de eettafel in
+fan.toggle,oprit,Draai de opritventilator om
+fan.toggle,garage,Draai de ventilator in de garage om
+fan.toggle,gast_kamer,Kun je de ventilator in de logeerkamer aanzetten?
+fan.toggle,gang,Schakel de status van de ventilator in de gang
+fan.toggle,keuken,Schakel de keukenventilator in
+fan.toggle,woonkamer,Schakel de ventilator in de woonkamer in
+fan.toggle,kantoor,Schakel de kantoorventilator in
+fan.toggle,buitenshuis,Schakel de buitenventilator in
+fan.toggle,zwembad,Wijzig de status van de zwembadventilator
+fan.toggle,schuur,Schakel de stalventilator in of uit
+fan.toggle,studie,Wijzig de ventilatorstatus in het onderzoek
+fan.turn_off,zolder_1,Schakel de zolderventilator uit
+fan.turn_off,slaapkamer_master,Schakel de ventilator in de hoofdslaapkamer uit
+fan.turn_off,eethoek,Schakel de ventilator in de eethoek uit
+fan.turn_off,eetkamer,Schakel de ventilator in de eetkamer uit
+fan.turn_off,garage,Schakel de garageventilator uit
+fan.turn_off,garage,Schakel de garageventilator uit
+fan.turn_off,gast_kamer,Schakel de kamerventilator uit
+fan.turn_off,keuken,Schakel de keukenventilator uit
+fan.turn_off,woonkamer,Schakel de ventilator in de woonkamer uit
+fan.turn_off,kantoor,Kunt u de kantoorventilator uitschakelen?
+fan.turn_off,kantoor,Schakel de kantoorventilator uit
+fan.turn_off,patio,Zet de terrasventilator uit
+fan.turn_off,studie,Schakel de studieventilator uit
+fan.turn_off,studie,Schakel de studieventilator uit
+fan.turn_on,badkamer,Activeer de badkamerventilator
+fan.turn_on,badkamer,Zet de badkamerventilator aan
+fan.turn_on,slaapkamer_master,Activeer de ventilator in de hoofdslaapkamer
+fan.turn_on,eethoek,Schakel de ventilator in de eethoek in
+fan.turn_on,garage,Zet de garageventilator aan
+fan.turn_on,gang,Schakel de gangventilator in
+fan.turn_on,keuken,Schakel de keukenventilator in
+fan.turn_on,woonkamer,Start de woonkamerventilator
+fan.turn_on,woonkamer,Zet de ventilator in de woonkamer aan
+fan.turn_on,kantoor,Kunt u de kantoorventilator inschakelen?
+fan.turn_on,studie,Activeer de studieventilator
+fan.turn_on,studie,Zet de studieventilator aan
+garage_door.close,fietsenstalling,Deactiveer de fietsenstalling
+garage_door.close,voornaamst,Sluit de hoofdgaragedeur
+garage_door.close,een auto,Zorg ervoor dat de garage voor één auto gesloten is
+garage_door.close,kant,Laat de garagedeur aan de zijkant zakken
+garage_door.open,kelder,Open alstublieft de garagedeur in de kelder
+garage_door.open,fietsenstalling,Activeer de fietsenstalling
+garage_door.open,voornaamst,Open de hoofdgaragedeur
+garage_door.open,kant,Kunt u de garagedeur aan de zijkant optillen?
+garage_door.open,twee_auto,Open de garage voor twee auto's
+garage_door.stop,voornaamst,Stop de hoofdgaragedeur
+garage_door.stop,kant,Stop de garagedeur aan de zijkant
+garage_door.toggle,voornaamst,Schakel de hoofdgaragedeur in
+garage_door.toggle,kant,Wijzig de status van de zijgaragedeur
+light.toggle,zolder,Verander de lichtstatus op zolder
+light.toggle,slaapkamer_1,Schakel het slaapkamerlicht in
+light.toggle,eettafel_boven,Schakel het licht boven de eettafel uit
+light.toggle,oprit,Draai het opritlicht om
+light.toggle,garage,Draai het licht in de garage uit
+light.toggle,gast_kamer,Kunt u het licht in de logeerkamer aan of uit doen?
+light.toggle,gast_kamer,Schakel het licht in de gastenkamer in
+light.toggle,gang,Schakel de stand van het licht in de gang
+light.toggle,gang,Schakel het ganglicht uit
+light.toggle,keuken_1,Schakel het keukenlicht in
+light.toggle,keuken_2,Schakel het keukenlicht in
+light.toggle,kantoor,Schakel het kantoorlicht in
+light.toggle,buitenshuis,Schakel het buitenlicht in
+light.toggle,patio,Schakel het terraslicht in
+light.toggle,zwembad,Wijzig de status van het zwembadlicht
+light.toggle,schuur,Schakel de stalverlichting in of uit
+light.toggle,studie,Verander de lichtstatus in de studie
+light.toggle,studie,Schakel het studielicht in
+light.turn_off,badkamer_1,Doof alstublieft het badkamerlicht
+light.turn_off,badkamer,Schakel het badkamerlicht uit
+light.turn_off,badkamer,Doe het badkamerlicht uit
+light.turn_off,slaapkamer_1,Schakel het slaapkamerlicht uit
+light.turn_off,slaapkamer_2,Schakel het slaapkamerlicht uit
+light.turn_off,eetkamer,Doe het licht in de eetkamer uit
+light.turn_off,eetkamer,Doe het licht in de eetkamer uit
+light.turn_off,tuin_1,Schakel het tuinlicht uit
+light.turn_off,gast_kamer,Schakel het licht in de gastenkamer uit
+light.turn_off,gast_kamer,Doe het licht in de logeerkamer uit
+light.turn_off,gang,Doe het ganglicht uit
+light.turn_off,gang,Doe het ganglicht uit
+light.turn_off,keuken_2,Doe het keukenlicht uit
+light.turn_off,aanrecht,Schakel het aanrechtlicht in de keuken uit
+light.turn_off,woonkamer_1,Schakel het licht in de woonkamer uit
+light.turn_off,woonkamer,Doe het licht in de woonkamer uit
+light.turn_off,master_bedroom_1,Schakel het licht in de hoofdslaapkamer uit
+light.turn_off,master_bedroom_lamp,Doe het licht in de slaapkamer uit
+light.turn_off,kantoor,Schakel de kantoorverlichting uit
+light.turn_off,patio,Schakel de terrasverlichting uit
+light.turn_off,patio,Schakel de terrasverlichting uit
+light.turn_off,zwembad,Doe het zwembadlicht uit
+light.turn_off,studie,Schakel de studielamp uit
+light.turn_on,badkamer_1,Kunt u de badkamer verlichten?
+light.turn_on,badkamer,Activeer het badkamerlicht
+light.turn_on,slaapkamer_1,Activeer het slaapkamerlicht
+light.turn_on,eetkamer_1,Activeer de lichten in de eetkamer
+light.turn_on,eetkamer,Activeer het eetkamerlicht
+light.turn_on,oprit,Doe het opritlicht aan
+light.turn_on,garage,Activeer het garagelicht
+light.turn_on,garage,Schakel de garageverlichting in
+light.turn_on,tuin_1,Doe de tuinverlichting aan
+light.turn_on,tuin_1,Doe het tuinlicht aan
+light.turn_on,tuin_2,Activeer het tuinlicht
+light.turn_on,tuin,Doe de tuinverlichting aan
+light.turn_on,gast_kamer,Schakel het licht in de logeerkamer in
+light.turn_on,gang,Doe het ganglicht aan
+light.turn_on,keuken_1,Doe de keukenverlichting aan
+light.turn_on,keuken_1,Doe het keukenlicht aan
+light.turn_on,aanrecht,Schakel het keukenwerkbladlicht in
+light.turn_on,woonkamer,Doe het licht in de woonkamer aan
+light.turn_on,master_bedroom_1,Activeer het licht in de hoofdslaapkamer
+light.turn_on,kantoor_1,Schakel het kantoorlicht in
+light.turn_on,patio,Schakel de terrasverlichting in
+light.turn_on,patio,Schakel de terrasverlichting in
+light.turn_on,patio,Doe de terrasverlichting aan
+light.turn_on,zwembad,Activeer het zwembadlicht
+light.turn_on,zwembad,Doe het zwembadlicht aan
+light.turn_on,schuur,Activeer het schuurlicht
+light.turn_on,schuur,Doe het schuurlicht aan
+light.turn_on,studie,Activeer de studielamp
+light.turn_on,eetkamer_kamerkroonluchter,Doe het licht in de eetkamer aan
+light.turn_on,kroonluchter_voor_gang,"Hé, kun je de kroonluchter in de voorgang aanzetten?"
+lock.lock,achterdeur,Schakel het slot van de achterdeur in
+lock.lock,voordeur,Doe de voordeur op slot
+lock.lock,kinderopvang,Kun jij de deur van de kinderkamer beveiligen?
+lock.lock,kantoor,Sluit het kantoor alstublieft af
+lock.lock,wijnkelder,Kunt u de wijnkelder op slot doen?
+lock.lock,voordeur,Doe de voordeur op slot.
+lock.lock,garagedeur,Ik wil dat de garagedeur op slot is.
+lock.lock,hoofdingang,Zorg ervoor dat de hoofdpoort gesloten is.
+lock.lock,kantoor_deur,Kunnen we de deur van het kantoor op slot doen?
+lock.lock,kelder_deur,Doe de kelderdeur op slot.
+lock.lock,tuinhek,Beveilig het tuinhek.
+lock.lock,kelder deur,De kelderdeur zou nu op slot moeten zijn.
+lock.lock,schuur_deur,Zorg ervoor dat de schuurdeur goed op slot zit.
+lock.lock,wasruimte_deur,Kun je de deur van de wasruimte op slot doen?
+lock.lock,gast_kamer_deur,Doe de deur van de logeerkamer op slot.
+lock.lock,hek poort,Zorg ervoor dat het hek op slot is.
+lock.lock,zolder_deur,Zolderdeur moet op slot.
+lock.lock,opbergruimte_deur,Doe de deur van de opslagruimte op slot.
+lock.lock,carport_poort,De carportpoort moet op slot.
+lock.lock,voor_veranda_deur,Vergrendel de deur van de veranda.
+lock.lock,wijnkelder,Zorg ervoor dat de wijnkelder afgesloten is.
+lock.lock,thuiskantoor,Ik wil graag dat het thuiskantoor afgesloten wordt.
+lock.lock,kunststudio,Het kunstatelier moet op slot.
+lock.lock,thuisgym,Doe de deur van de homegym op slot.
+lock.lock,bibliotheek_deur,Doe de bibliotheekdeur op slot.
+lock.unlock,achterdeur,Kunt u het slot van de achterdeur losmaken?
+lock.unlock,fietsenstalling,Maak het slot van de fietsenstalling los
+lock.unlock,voordeur,Ontgrendel de voordeur
+lock.unlock,kantoor,Ontgrendel het kantoor
+lock.unlock,gereedschap_schuur,Ontgrendel de gereedschapsschuur
+lock.unlock,achterdeur,Kun jij de achterdeur ontgrendelen?
+lock.unlock,patio_deur,"Maak de patiodeur open, alstublieft."
+lock.unlock,keuken_raam,Open het slot op het keukenraam.
+lock.unlock,slaapkamer_raam,Slaapkamerraam moet worden ontgrendeld.
+lock.unlock,badkamer_raam,Kun je het badkamerraam ontgrendelen?
+lock.unlock,dak_deur,Open het slot van de dakdeur.
+lock.unlock,pool_gate,Ik wil graag dat de poort van het zwembad ontgrendeld is.
+lock.unlock,balkon_deur,Maak de balkondeur voor mij open.
+lock.unlock,kinderkamer_deur,De deur van de kinderkamer moet worden ontgrendeld.
+lock.unlock,zij-ingang,Ontgrendel onze zij-ingang.
+lock.unlock,garage_zij_deur,De zijdeur van de garage moet ontgrendeld zijn.
+lock.unlock,nooduitgang,Kun jij de brandtrap ontgrendelen?
+lock.unlock,botenhuis_deur,Ontgrendel de deur van het botenhuis.
+lock.unlock,achtertuin_poort,Kunnen we de poort van de achtertuin ontsluiten?
+lock.unlock,achter_terras_deur,Open het slot op de achterterrasdeur.
+lock.unlock,serre_deur,Open de deur van de serre.
+lock.unlock,speelkamer_deur,Kun jij de deur van de speelkamer ontgrendelen?
+lock.unlock,muziek Kamer,"Open de muziekkamer, alstublieft."
+lock.unlock,bioscoop_kamer,De bioscoopzaal moet worden ontgrendeld.
+lock.unlock,serre,Kan de serre ontgrendeld worden?
+media_player.media_next_track,woonkamer,Ga naar het volgende nummer in de woonkamer
+media_player.media_next_track,kelder_thuis_theater,Ga naar het volgende nummer in de kelder.
+media_player.media_next_track,gym_muziek_speler,Ga naar het volgende nummer in de sportschool.
+media_player.media_next_track,yoga_room_muziek,Volgende nummer voor de yogaruimtemuziek.
+media_player.media_next_track,tuin_muziek,Het volgende nummer voor de tuinmuziek.
+media_player.media_pause,hoofdslaapkamer,Pauzeer de media in de hoofdslaapkamer
+media_player.media_pause,badkamer_audio,Pauzeer de badkameraudio.
+media_player.media_pause,zolder_tv,Pauzeer de tv op de zolder.
+media_player.media_pause,wasruimte_radio,Pauzeer de radio in de wasruimte.
+media_player.media_pause,gang_intercom,Pauzeer de intercom in de gang.
+media_player.media_play,kinderopvang,Speel alstublieft de media in de kinderkamer
+media_player.media_play,patio_luidspreker,Speel muziek af op de terrasluidspreker.
+media_player.media_play,serre_stereo,Speel de stereo af in de serre.
+media_player.media_play,kinderkamer_verhalenverteller,Start de verhalenverteller in de kinderkamer.
+media_player.media_play,kelder_jukebox,Speel de jukebox in de kelder.
+media_player.media_previous_track,keuken,Speel het vorige nummer af in de keuken
+media_player.media_previous_track,kinderkamer_slaapliedje,Ga terug naar het vorige slaapliedje in de kinderkamer.
+media_player.media_previous_track,studeerkamerradio,Ga terug naar het vorige station in de studeerkamer.
+media_player.media_previous_track,serre_cd_player,Vorig nummer op de conservatorium-cd-speler.
+media_player.media_previous_track,oprit_luidsprekers,Vorig nummer op de luidsprekers op de oprit.
+media_player.media_stop,kinderopvang,Stop de media in de kinderkamer
+media_player.media_stop,gast_kamer_media,Stop de mediaspeler in de gastenkamer.
+media_player.media_stop,zwembad_media,Stop het mediasysteem bij het zwembad.
+media_player.media_stop,balkon_luidsprekers,Stop de balkonluidsprekers.
+media_player.media_stop,veranda_geluidssysteem,Stop het verandageluidssysteem.
+media_player.turn_off,keuken_radio,Schakel de keukenradio uit.
+media_player.turn_off,lounge_entertainment,Schakel het lounge-entertainmentcentrum uit.
+media_player.turn_off,ingang_echo,Schakel de Echo in de hal uit.
+media_player.turn_off,wijnkelderluidsprekers,Zet de speakers in de wijnkelder uit.
+media_player.turn_off,mudroom_media_player,Schakel de mediaspeler in de modderkamer uit.
+media_player.turn_on,keuken,Kun je de media in de keuken starten?
+media_player.turn_on,woonkamer,Activeer de media in de woonkamer
+media_player.turn_on,hoofdslaapkamer,Schakel de mediaspeler in de hoofdslaapkamer in
+media_player.turn_on,woonkamer_tv,Schakel de tv in de woonkamer in.
+media_player.turn_on,deck_music_system,Zet het muzieksysteem van het deck aan.
+media_player.turn_on,achtertuin_luidsprekers,Zet de luidsprekers in de achtertuin aan.
+media_player.turn_on,foyer_geluid_systeem,Schakel het geluidssysteem in de foyer in.
+media_player.turn_on,gang_audio,Schakel het audiosysteem in de gang in.
+media_player.volume_down,kinderopvang,Zet het volume lager in de kinderkamer
+media_player.volume_down,kantoor,Kun je het volume op kantoor verlagen?
+media_player.volume_down,kantoor_geluid_systeem,Verlaag het volume op kantoor.
+media_player.volume_down,game_room_speakers,Zet de luidsprekers in de gamekamer zachter.
+media_player.volume_down,workshop_geluid_systeem,Verlaag het volume van het geluidssysteem in de werkplaats.
+media_player.volume_down,zolder_audio_systeem,Verlaag het volume van het zolderaudiosysteem.
+media_player.volume_down,schuur_geluidssysteem,Zet het geluidssysteem van de schuur zachter.
+media_player.volume_mute,woonkamer,Demp de mediaspeler in de woonkamer
+media_player.volume_mute,garage_stereo,Zet de stereo in de garage uit.
+media_player.volume_mute,bibliotheek_soundbar,Demp de soundbar in de bibliotheek.
+media_player.volume_mute,art_studio_player,Demp de mediaspeler in het kunstatelier.
+media_player.volume_mute,botenhuis_stereo,Zet de stereo in het botenhuis uit.
+media_player.volume_mute,boomhut_luidsprekers,Demp de luidsprekers van de boomhut.
+media_player.volume_up,keuken,Verhoog het volume in de keuken
+media_player.volume_up,woonkamer,Zet het volume in de woonkamer hoger
+media_player.volume_up,hoofdslaapkamer,Kunt u het volume op de mediaspeler in de hoofdslaapkamer verhogen?
+media_player.volume_up,slaapkamer_luidspreker,Kun je het volume in de slaapkamer verhogen?
+media_player.volume_up,dining_area_jukebox,Vergroot het jukeboxvolume in het eetgedeelte.
+media_player.volume_up,rooftop_deck_audio,Verhoog het audiovolume op het dak.
+media_player.volume_up,kas_radio,Verhoog het radiovolume in de kas.
+media_player.volume_up,bijkeuken_radio,Zet de radio in de bijkeuken harder.
+switch.toggle,tp_link_kasa_veranda,Schakel de verandaverlichting in.
+switch.toggle,honeywell_home_office,Schakel de kantoorverlichting in.
+switch.toggle,sonoff_eetkamer,Schakel de verlichting in de eetkamer in.
+switch.toggle,osram_gang,Schakel de gangverlichting uit.
+switch.toggle,koogeek_basement,Schakel de kelderverlichting in.
+switch.toggle,arlo_schijnwerpers,Schakel de beveiligingsschijnwerpers in.
+switch.toggle,broadlink_kitchenette,Schakel de keukenverlichting uit.
+switch.toggle,kasa_woonkamer,Schakel de verlichting in de woonkamer in.
+switch.toggle,thuis_kantoor_dimmer,Schakel de dimmer voor het thuiskantoor in.
+switch.toggle,keuken_onder_kast,Schakel de keuken in onder kastverlichting.
+switch.turn_off,belkin_wemo_garage,Zet de garageschakelaar uit.
+switch.turn_off,lutron_caseta_slaapkamer,Doe de slaapkamerverlichting uit.
+switch.turn_off,samsung_smartthings_security,Schakel het beveiligingssysteem uit.
+switch.turn_off,fibaro_pool,Doe de zwembadverlichting uit.
+switch.turn_off,ecobee_tuin,Doe de tuinverlichting uit.
+switch.turn_off,insteon_patio,Doe de terrasverlichting uit.
+switch.turn_off,Yeelight_serre,Schakel de verlichting in de serre uit.
+switch.turn_off,meross_walkway,Schakel de verlichting van de loopbrug uit.
+switch.turn_off,xiaomi_bedside,Schakel het bedlampje uit.
+switch.turn_off,ikea_gastenkamer,Doe de lichten in de gastenkamer uit.
+switch.turn_off,tuya_shed,Schakel de lichtschakelaar van de schuur uit.
+switch.turn_off,tint_slaapkamer_2,Doe de lichten in de tweede slaapkamer uit.
+switch.turn_off,stralend_kantoor,Doe de kantoorverlichting uit.
+switch.turn_off,z_wave_gast_badkamer,Schakel de ventilator van de gastenbadkamer uit.
+switch.turn_off,patio_heater_switch,Zet de terrasverwarmer uit.
+switch.turn_off,keuken_ventilator,Schakel de keukenventilator uit.
+switch.turn_off,lantaarns bij het zwembad,Schakel de lantaarns bij het zwembad uit.
+switch.turn_off,achtertuin_schijnwerper,Kun je de schijnwerper in de achtertuin uitschakelen?
+switch.turn_off,wasplaats,Schakel de verlichting van de wasruimte uit.
+switch.turn_off,kelder_schansen,Kunnen we de schansen in de kelder lager zetten?
+switch.turn_off,serre_zonwering,"Ik wil graag dat de zonneschermen gesloten zijn, alstublieft."
+switch.turn_off,patio_string_lights,Doe de lichtslingers op het terras uit.
+switch.turn_off,keuken eiland,Schakel de keukeneilandverlichting uit.
+switch.turn_off,garage_werklamp,Kunnen we de garagewerklamp uitschakelen?
+switch.turn_off,thuisbioscoop,Schakel de verlichting van de thuisbioscoop uit.
+switch.turn_off,eetkamer_dimmer,Zet de verlichting in de eetkamer uit.
+switch.turn_off,art_studio_spots,Schakel de spotlights van de kunststudio's uit.
+switch.turn_off,back_entry,Doe de achterinstapverlichting uit.
+switch.turn_off,veranda_fairy_lights,"Doe de verlichting van de veranda uit, alstublieft."
+switch.turn_off,inloopkast,Schakel de verlichting van de inloopkast uit.
+switch.turn_off,badkamerspiegel,Kun je het licht van de badkamerspiegel uitschakelen?
+switch.turn_off,opslagruimte,Schakel de verlichting in de opslagruimte uit.
+switch.turn_off,natuurbehoud_gebied,Schakel de verlichting van het beschermde gebied uit.
+switch.turn_off,hobby_kamer,Kunnen we de verlichting in de hobbykamer uitdoen?
+switch.turn_off,achterterras,Kun je de lichten op het achterterras dimmen?
+switch.turn_on,philips_hue_living_room,Doe de verlichting in de woonkamer aan.
+switch.turn_on,legrand_stralende_keuken,Doe de keukenverlichting aan.
+switch.turn_on,ge_z_wave_badkamer,Zet de badkamerventilator aan.
+switch.turn_on,eve_energy_balkon,Schakel de balkonverlichting in.
+switch.turn_on,nest_thermostaat_terras,Zet de terrasthermostaat aan.
+switch.turn_on,wink_relay_oprit,Doe de opritverlichting aan.
+switch.turn_on,sengled_deck,Schakel de dekverlichting in.
+switch.turn_on,gosund_zolder,Zet de zolderlichtschakelaar aan.
+switch.turn_on,nanoleaf_trap,Doe de trapverlichting aan.
+switch.turn_on,wyze_studie,Doe de verlichting in de studeerkamer aan.
+switch.turn_on,netatmo_front_yard,Schakel de verlichting in de voortuin in.
+switch.turn_on,moeshouse_gym,Schakel de sportschoolverlichting in.
+switch.turn_on,wemo_wasruimte,Doe de verlichting van de wasruimte aan.
+switch.turn_on,caseta_gang_2,Doe de tweede gangverlichting aan.
+switch.turn_on,beveiligingscamera_licht,Schakel het licht van de beveiligingscamera in.
+switch.turn_on,gang_dimmer,Kunt u de verlichting in de gang dimmen?
+switch.turn_on,tuin_spots,Activeer de tuinspots.
+switch.turn_on,front_porch_sensor,Schakel het sensorlicht van de veranda in.
+switch.turn_on,trap_licht_strip,Kunt u de traplichtstrip verlichten?
+switch.turn_on,kantoor_bureau_lamp,Verlicht de bureaulamp in mijn kantoor.
+switch.turn_on,bibliotheek_plafond,Schakel de plafondlampen in de bibliotheek in.
+switch.turn_on,gastenbadkamer,"Verlicht de gastenbadkamer, alstublieft."
+switch.turn_on,entree_kroonluchter,Verlicht de kroonluchter in de hal.
+switch.turn_on,bedroom_track_lighting,Verlicht de spoorverlichting in de slaapkamer.
+switch.turn_on,balkon_mood_lighting,Activeer de sfeerverlichting op het balkon.
+switch.turn_on,speelkamer_nachtlampje,Kun je het nachtlampje in de speelkamer aanzetten?
+switch.turn_on,foyer_muur_sconce,Verlicht de wandkandelaar in de foyer.
+switch.turn_on,corridor_track,Fleur de spoorverlichting in de gang op.
+switch.turn_on,master_suite,Zet de mastersuite op nachtmodus.
+switch.turn_on,dakterras,Schakel de dakverlichting in.
+switch.turn_on,wijnkelder,Verlicht de wijnkelder.
+switch.turn_on,sportschool_plafond,Verlicht de plafondlampen van de sportschool.
+switch.turn_on,voor_gazon,Activeer de schijnwerpers voor het gazon aan de voorzijde.
+vacuum.start,keuken,Schakel het keukenvacuüm in.
+vacuum.start,woonkamer,Kunt u alstublieft de stofzuiger in de woonkamer activeren?
+vacuum.start,eetkamer,Het vacuüm in de eetkamer moet worden gestart.
+vacuum.start,slaapkamer1,Laten we het stofzuigen in slaapkamer één starten.
+vacuum.start,slaapkamer2,Kun je alsjeblieft de stofzuiger aanzetten voor slaapkamer twee?
+vacuum.start,studie,Het studievacuüm moet geactiveerd zijn.
+vacuum.start,bibliotheek,Mag ik u vragen om het bibliotheekvacuüm te starten?
+vacuum.start,kantoor,Start alstublieft het kantoorvacuüm.
+vacuum.start,entreehal,Kunt u alstublieft de stofzuiger in de hal aanzetten?
+vacuum.start,serre,Het vacuüm in de serre moet worden gestart.
+vacuum.start,patio,Laten we de terrasstofzuiger activeren.
+vacuum.start,garage,"Kunnen we de garage opruimen, alstublieft?"
+vacuum.start,werkplaats,Mag ik u verzoeken de werkplaatsstofzuiger aan te zetten?
+vacuum.start,bijkeuken,Maak de bijkeuken schoon.
+vacuum.start,modderkamer,Kunt u alstublieft de modderkamer opruimen?
+vacuum.start,poeder Kamer,De damestoilet moet worden schoongemaakt.
+vacuum.start,gang,Laten we de gangstofzuiger aanzetten.
+vacuum.start,trappenhuis,Kunnen we alsjeblieft het trappenhuis stofzuigen?
+vacuum.start,balkon,Mag ik u vragen het balkon schoon te maken?
+vacuum.start,dakterras,"Alsjeblieft, het dakterras is vies."
+vacuum.start,zolder,Laten we beginnen met het zolderstofzuigen.
+vacuum.start,kelder,"Kunnen we de kelderstofzuiger aanzetten, alstublieft?"
+vacuum.start,zwembad,Het zwembadvacuüm moet worden gestart.
+vacuum.start,tuin,Kunt u alstublieft de tuinstofzuiger aanzetten?
+vacuum.start,terras,Mag ik u verzoeken om het terrasstofzuigen te starten?
+vacuum.start,portiek,Start alstublieft de verandastofzuiger.
+vacuum.start,schuur,"Kunnen we de schuurstofzuiger aanzetten, alstublieft?"
+vacuum.start,werkplaats2,De tweede werkplaats is momenteel behoorlijk vies.
+vacuum.start,studio,Mag ik je vragen om de studiostofzuiger aan te zetten?
+vacuum.start,kas,Start alstublieft het kasvacuüm.
+vacuum.start,oppotten_schuur,Kunnen we alstublieft het vacuüm van de potschuur aanzetten?
+vacuum.start,zomerhuis,Het zomerhuisstofzuigen moet worden gestart.
+vacuum.start,garage2,Laten we de tweede garagestofzuiger starten.
+vacuum.start,gereedschap_schuur,Mag ik u verzoeken het gereedschapsschuurvacuüm te activeren?
+vacuum.start,schuur,Kunnen we alstublieft de stalstofzuiger aanzetten?
+vacuum.start,wijnkelder,De wijnkelder moet worden schoongemaakt.
+vacuum.start,opslagruimte,Laten we beginnen met het opruimen van de opslagruimte.
+vacuum.start,kas2,Mag ik u vragen het tweede kasvacuüm te activeren?
+vacuum.start,botenhuis,Schakel de boothuisstofzuiger in.
+vacuum.start,jachthaven,Kunnen we alstublieft het jachthavenvacuüm starten?
+vacuum.start,bb8,Schakel BB8 in.
+vacuum.start,c3po,Kunt u C3PO starten?
+vacuum.start,hal,Schakel Hal in.
+vacuum.start,r2d2,Kun jij R2D2 vertellen dat hij moet opruimen?
+light.turn_off,bar_licht,Schakel het licht in de bar uit
+light.turn_off,bar_licht,Schakel het licht in de bar uit
+light.turn_off,bar_licht,Doe het barlicht uit
+light.turn_off,eetkamer_licht,Schakel de eetkamerverlichting uit
+light.turn_off,eetkamer_licht,Doe het licht in de eetkamer uit
+light.turn_off,eetkamer_licht,Schakel het licht in de eetkamer in
+light.turn_off,voorlicht,Kunnen we het voorlicht uitschakelen?
+light.turn_off,voorlicht,Kunnen we het voorlicht dimmen?
+light.turn_off,voorlicht,Kun je de lichten aan de voorkant uitdoen?
+light.turn_off,gym_licht,Kun je het licht in de sportschool uitdoen?
+light.turn_off,gym_licht,Kun je het licht in de sportschool uitdoen?
+light.turn_off,gym_licht,Kunnen we de gymverlichting uitdoen?
+light.turn_off,eiland_licht,Kunt u het eilandlicht uitschakelen?
+light.turn_off,eiland_licht,Schakel het eilandlicht uit
+light.turn_off,eiland_licht,Schakel de eilandverlichting uit.
+light.turn_off,keuken_licht,Schakel het keukenlicht uit
+light.turn_off,keuken_licht,Doe de lichten in de keuken uit.
+light.turn_off,keuken_licht,Doe de lichten in de keuken uit.
+light.turn_off,woonkamer_licht,woonkamerlicht uit
+light.turn_off,woonkamer_licht,Schakel de verlichting in de woonkamer uit.
+light.turn_off,woonkamer_licht,Schakel het licht in de woonkamer uit.
+light.turn_off,hoofd_kelder_licht,Doof alstublieft het hoofdlicht in de kelder
+light.turn_off,hoofd_kelder_licht,Schakel de lichten in de hoofdkelder uit.
+light.turn_off,hoofd_kelder_licht,Schakel het hoofdlicht in de kelder uit
+light.turn_off,man_cave_light,Schakel de verlichting in de mangrot uit.
+light.turn_off,man_cave_light,Doe alstublieft de lichten van de mannengrot uit.
+light.turn_off,man_cave_light,Doe alsjeblieft het licht van de mannengrot uit.
+light.turn_off,master_bedroom_light,Schakel de lichten in de hoofdslaapkamer uit.
+light.turn_off,master_bedroom_light,Zet de verlichting in de hoofdslaapkamer uit.
+light.turn_off,master_bedroom_light,Doe de verlichting in de hoofdslaapkamer uit.
+light.turn_off,pool_table_light,Doe het licht van de pooltafel uit
+light.turn_off,pool_table_light,Doe het pooltafellicht uit
+light.turn_off,pool_table_light,"Doe het licht van de pooltafel uit, alstublieft"
+light.turn_off,pool_table_light,Doe nu het pooltafellicht uit
+light.turn_off,pool_table_light,Doe de verlichting van de pooltafel uit
+light.turn_off,pool_table_light,Doe het licht in de pooltafel uit
+light.turn_off,pool_table_light,Doe het pooltafellicht uit
+light.turn_off,pool_table_light,Doe het licht van de pooltafel uit
+light.turn_off,pool_table_light,"Doe het licht van de pooltafel uit, alstublieft"
+light.turn_off,pool_table_light,Doe nu het licht van de pooltafel uit
+light.turn_off,pool_table_light,U kunt het licht van de pooltafel nu uitschakelen
+light.turn_off,pool_table_light,Doe de verlichting van de pooltafel uit.
+light.turn_off,pool_table_light,"Doe het licht van de pooltafel uit, alstublieft."
+light.turn_off,pool_table_light,Doe het licht van de pooltafel uit
+light.turn_off,pool_table_light,Doe het licht in de pooltafel uit.
+light.turn_off,pool_table_light,Doe het licht van de pooltafel uit
+light.turn_off,pool_table_light,Doe het licht in de pooltafel uit
+light.turn_off,pool_table_light,Schakel het licht van de pooltafel uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit
+light.turn_off,veranda_licht,Doe het verandalicht uit
+light.turn_off,veranda_licht,Verandaverlichting uitschakelen
+light.turn_off,veranda_licht,Doe de verandaverlichting uit
+light.turn_off,veranda_licht,Schakel het portieklicht in
+light.turn_off,veranda_licht,Kunnen we de verandaverlichting uitschakelen?
+light.turn_off,veranda_licht,Kunnen we het licht in de veranda uitdoen?
+light.turn_off,veranda_licht,Kun je de lichten op de veranda uitdoen?
+light.turn_off,veranda_licht,Kun je het licht in de veranda uitdoen?
+light.turn_off,veranda_licht,Kunt u het licht in de veranda uitdoen?
+light.turn_off,veranda_licht,Kunnen we de verandaverlichting uitdoen?
+light.turn_off,veranda_licht,Kunt u het portieklicht uitschakelen?
+light.turn_off,veranda_licht,Schakel de portiekverlichting uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit.
+light.turn_off,veranda_licht,Schakel de portiekverlichting uit
+light.turn_off,veranda_licht,Schakel het licht op de veranda uit
+light.turn_off,veranda_licht,Schakel de portiekverlichting uit
+light.turn_off,veranda_licht,Schakel de portiekverlichting uit
+light.turn_off,veranda_licht,Schakel de portiekverlichting uit
+light.turn_off,veranda_licht,Schakel de lichten op de veranda uit.
+light.turn_off,veranda_licht,Schakel de lichten in de veranda uit.
+light.turn_off,veranda_licht,veranda licht uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit.
+light.turn_off,veranda_licht,Schakel het portieklicht uit.
+light.turn_off,veranda_licht,Doof alstublieft het portieklicht
+light.turn_off,veranda_licht,Doe alstublieft de lichten in de veranda uit.
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit
+light.turn_off,veranda_licht,Schakel de verlichting van de veranda uit.
+light.turn_off,veranda_licht,Doe alstublieft de verandaverlichting uit.
+light.turn_off,veranda_licht,Doe het verandalicht uit.
+light.turn_off,veranda_licht,Doe de lichten in de veranda uit.
+light.turn_off,veranda_licht,Zet de verandaverlichting uit.
+light.turn_off,veranda_licht,Doe de verandaverlichting uit.
+light.turn_off,veranda_licht,Doe het verandalicht uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit
+light.turn_off,veranda_licht,"Doe het verandalicht uit, alstublieft"
+light.turn_off,veranda_licht,Doe nu het verandalicht uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit
+light.turn_off,veranda_licht,Doe het licht in de veranda uit
+light.turn_off,veranda_licht,Schakel de verandaverlichting uit
+light.turn_off,veranda_licht,Doe het verandalicht uit
+light.turn_off,veranda_licht,"Doe het verandalicht uit, alstublieft"
+light.turn_off,veranda_licht,Doe nu het verandalicht uit
+light.turn_off,veranda_licht,U kunt nu het verandalicht uitschakelen
+light.turn_off,veranda_licht,Doe de verandaverlichting uit.
+light.turn_off,veranda_licht,"Doe het verandalicht uit, alstublieft."
+light.turn_off,veranda_licht,Doe het verandalicht uit
+light.turn_off,veranda_licht,Doe het licht in de veranda uit.
+light.turn_off,veranda_licht,Doe het verandalicht uit
+light.turn_off,veranda_licht,Doe het licht in de veranda uit
+light.turn_off,veranda_licht,Schakel het verandalicht uit
+light.turn_off,douche_licht,Schakel het douchelicht uit
+light.turn_off,douche_licht,Schakel het douchelicht uit
+light.turn_off,douche_licht,Doe het douchelicht uit
+light.turn_off,douche_licht,Douchelicht uitschakelen
+light.turn_off,douche_licht,Douchelicht uitschakelen
+light.turn_off,trap_licht,trapverlichting uit
+light.turn_off,trap_licht,Schakel de trapverlichting uit.
+light.turn_off,trap_licht,Schakel het trappenhuislicht uit
+light.turn_off,trap_licht,Schakel het trappenhuislicht in
+light.turn_off,trap_licht,Kunnen we het trappenhuislicht uitschakelen?
+light.turn_off,dak licht,Schakel het daklicht uit
+light.turn_off,dak licht,Schakel het daklicht uit
+light.turn_off,dak licht,Schakel het daklicht uit
+light.turn_off,loopbrug_licht,Doe de loopbrugverlichting uit.
+light.turn_off,loopbrug_licht,Doe het licht op de loopbrug uit
+light.turn_off,loopbrug_licht,Schakel het looppadlicht uit
+light.turn_off,Bobs_lamp,Doe alsjeblieft het licht van Bob uit
+light.turn_off,janets_lamp,Doe Janet's licht uit
+light.turn_off,ruths_lamp,Doe alsjeblieft de lamp van Ruth uit
+light.turn_off,colins_lamp,Doe Colins lamp uit
+light.turn_off,neenas_lamp,Doe Neena's lamp uit
+light.turn_off,roberts_lamp,Deactiveer Roberts lamp
+light.turn_off,paulus_lamp,Doe de lamp van Paulus uit
+light.turn_off,peters_lamp,Schakel de lamp van Peter uit
+light.turn_off,angelas_lamp,Kunnen we Angela's lamp uitzetten?
+light.turn_off,ingang_lamp,Schakel de instaplamp uit
+light.turn_off,ingang_lamp,Schakel de instaplamp uit
+light.turn_off,ingang_lamp,Doof de inkomlamp
+light.turn_off,ingang_lamp,Schakel de binnenverlichting uit
+light.turn_off,ingang_lamp,Schakel de lampen in de hal uit.
+light.turn_off,ingang_lamp,Ingangsverlichting uitschakelen
+light.turn_on,bar_licht,Verlicht het licht in mijn bar.
+light.turn_on,bar_licht,Verlicht de bar.
+light.turn_on,bar_licht,Barlicht aan
+light.turn_on,bar_licht,Verlicht de bar.
+light.turn_on,eetkamer_licht,Activeer de lichten in de eetkamer
+light.turn_on,eetkamer_licht,"Schakel het licht in de eetkamer in, alstublieft"
+light.turn_on,eetkamer_licht,Doe de lichten in de eetkamer aan.
+light.turn_on,voorlicht,Activeer alstublieft het voorlicht
+light.turn_on,voorlicht,Activeer alstublieft het voorlicht
+light.turn_on,voorlicht,Activeer nu het voorlicht
+light.turn_on,gym_licht,Doe alstublieft het gymlicht aan
+light.turn_on,gym_licht,Doe het gymlicht aan
+light.turn_on,gym_licht,sportschoollampje aan
+light.turn_on,eiland_licht,Zet het eilandlicht aan
+light.turn_on,eiland_licht,eilandlampje aan
+light.turn_on,eiland_licht,Schakel het eilandlicht in
+light.turn_on,keuken_licht,keukenverlichting aan
+light.turn_on,keuken_licht,Doe het keukenlicht aan
+light.turn_on,keuken_licht,"Hé, kun je het keukenlicht aandoen?"
+light.turn_on,woonkamer_licht,Doe de verlichting in de woonkamer aan.
+light.turn_on,woonkamer_licht,Doe alstublieft de verlichting in de woonkamer aan.
+light.turn_on,woonkamer_licht,Doe alstublieft de verlichting in de woonkamer aan.
+light.turn_on,woonkamer_licht,Schakel de woonkamerverlichting in.
+light.turn_on,hoofd_kelder_licht,Schakel het hoofdlicht in de kelder in
+light.turn_on,hoofd_kelder_licht,Schakel het hoofdlicht in de kelder in
+light.turn_on,man_cave_light,Activeer het mancavelicht.
+light.turn_on,man_cave_light,Activeer de lichten in de mancave
+light.turn_on,man_cave_light,Kun jij de mannengrot verlichten?
+light.turn_on,man_cave_light,Schakel het licht van de mannengrot in
+light.turn_on,master_bedroom_light,Kun je de hoofdslaapkamer verlichten?
+light.turn_on,pool_table_bar_light,pooltafel bar licht aan
+light.turn_on,pool_table_bar_light,Schakel het licht van de pooltafelbar in
+light.turn_on,pool_table_bar_light,Kun je het licht van de pooltafelbar aandoen?
+light.turn_on,pool_table_light,"Schakel het pooltafellicht in, alstublieft"
+light.turn_on,veranda_licht,Schakel de verandaverlichting in
+light.turn_on,veranda_licht,Kun je het verandalicht aandoen?
+light.turn_on,veranda_licht,Kunt u alstublieft het licht op de veranda aandoen?
+light.turn_on,douche_licht,Doe het douchelicht aan
+light.turn_on,douche_licht,Doe het douchelicht aan
+light.turn_on,douche_licht,Activeer het douchelicht
+light.turn_on,douche_licht,Kunt u alstublieft de douche verlichten?
+light.turn_on,douche_licht,Doe het licht aan bij de douche
+light.turn_on,douche_licht,"Steek de douche aan, alsjeblieft"
+light.turn_on,douche_licht,Doe alstublieft het douchelicht aan
+light.turn_on,douche_licht,Zet het douchelicht aan
+light.turn_on,douche_licht,douchelampje aan
+light.turn_on,trap_licht,Activeer alstublieft de trapverlichting
+light.turn_on,trap_licht,Activeer alstublieft de trapverlichting
+light.turn_on,trap_licht,Kunt u alstublieft het trappenhuis verlichten?
+light.turn_on,trap_licht,Activeer alstublieft het trappenhuislicht
+light.turn_on,trap_licht,Schakel de verlichting in het trappenhuis in
+light.turn_on,dak licht,Schakel het daklicht in.
+light.turn_on,dak licht,Doe alstublieft het daklicht aan
+light.turn_on,dak licht,Kun je het licht in het dak aandoen?
+light.turn_on,loopbrug_licht,Activeer alstublieft de loopbrugverlichting
+light.turn_on,loopbrug_licht,Schakel de verlichting van het looppad in
+light.turn_on,loopbrug_licht,Schakel de loopbrugverlichting in.
+light.turn_on,freds_lamp,Doe Freds licht aan
+light.turn_on,colins_lamp,Doe Colins licht aan
+light.turn_on,roberts_lamp,Activeer Roberts licht
+light.turn_on,pierres_lamp,"Doe Pierre's licht aan, alsjeblieft"
+light.turn_on,jennifers_lamp,Doe Jenns licht aan
+light.turn_on,julias_lamp,Julia's licht aan
+light.turn_on,neenas_lamp,Doe Neena's licht aan
+light.turn_on,patricks_lamp,Kun jij Patrick's licht aandoen?
+light.turn_on,sams_lamp,Verlicht die van Sam.
+light.turn_on,johns_lamp,Verlicht het licht van John.
+light.turn_on,jordans_lamp,Schakel de verlichting van Jordan in.
+light.turn_on,lebrons_lamp,Steek de lichten van Lebron aan.
+light.turn_on,angies_lamp,Kun jij Angie's lamp aanzetten?
+light.turn_on,louis_lamp,Kunt u alstublieft de lamp van Louis aandoen?
+light.turn_on,katniss_lamp,Kun je de lamp van Katniss aanzetten?
+light.turn_on,waynes_lamp,Schakel Wayne's lamp in
+light.turn_on,samuels_lamp,"Schakel Samuels lamp in, alstublieft"
+light.turn_on,ingang_lamp,Instaplamp aanzetten
+light.turn_on,ingang_lamp,Activeer de inkomlamp
+light.turn_on,ingang_lamp,Schakel de lamp in de hal in
+light.turn_on,ingang_lamp,Doe het entreelicht aan
+light.turn_on,ingang_lamp,Schakel de entreeverlichting in.

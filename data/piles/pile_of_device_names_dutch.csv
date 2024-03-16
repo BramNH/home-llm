@@ -1,0 +1,647 @@
+device_name,description
+blinds.terug_venster,Jaloezieën aan de achterkant
+blinds.kelder,Kelder jaloezieën
+blinds.badkamer_1,Eerste badkamergordijnen
+blinds.badkamer,Badkamer jaloezieën
+blinds.Knutselkamer,Gordijnen voor hobbykamers
+blinds.eetkamer,Eetkamergordijnen
+blinds.voorraam,Jaloezieën vooraan
+blinds.garage,Garagegordijnen
+blinds.gastenbadkamer,Gordijnen voor de gastenbadkamer
+blinds.gast_kamer,Jaloezieën voor gastenkamers
+blinds.gang_1,Eerste ganggordijnen
+blinds.gang_2,Tweede gangzonwering
+blinds.gang,Ganggordijnen
+blinds.ikea_smart,Slimme rolgordijnen van Ikea
+blinds.kinderkamer,Rolgordijnen voor kinderkamers
+blinds.keuken_raam,Keuken jaloezieën
+blinds.keuken,Keuken jaloezieën
+blinds.woonkamer_groot,Belangrijkste jaloezieën in de woonkamer
+blinds.woonkamer,Jaloezieën voor de woonkamer
+blinds.hoofdslaapkamer,Jaloezieën voor de hoofdslaapkamer
+blinds.kinderopvang,Kinderjaloezieën
+blinds.kantoor,Kantoorzonwering
+blinds.kantoor_venster,Kantoorzonwering
+blinds.patio,Patio zonwering
+blinds.dakraam,Dakraamgordijnen
+blinds.dakraam,Dakraam zonwering
+blinds.somfy_keuken,Keuken jaloezieën
+blinds.somfy_living,Jaloezieën voor de woonkamer
+blinds.serre,Zonwering
+blinds.theater_kamer,Gordijnen voor thuisbioscoop
+fan.zolder_1,Zolderventilatoren
+fan.zolder_2,Zolderventilatoren
+fan.zolder_3,Zolderventilatoren
+fan.zolder_ventilatie,Ventilatieventilator voor zolder
+fan.zolder,Zolder ventilator
+fan.achtertuin,Achterverandaventilator
+fan.balkon,Balkonventilator
+fan.kelder,Kelder ventilator
+fan.badkamer_omlaag,Ventilator in badkamer beneden
+fan.badkamer,Badkamer ventilator
+fan.slaapkamer_master,Hoofdslaapkamerventilator
+fan.slaapkamer_rechts,Slaapkamerventilator rechts
+fan.slaapkamer,Slaapkamer ventilator
+fan.plafond_1,Plafondventilator
+fan.plafond_2,Plafondventilator
+fan.eethoek,Eethoekventilator
+fan.eetkamer,Eetkamerventilator
+fan.dyson_puur,Dyson Pure-ventilator
+fan.voor_veranda,Voorveranda ventilator
+fan.garage_werkplaats,Garagewerkplaats ventilator
+fan.garage,Garageventilator
+fan.logeerkamer,Kamerventilator
+fan.gast_kamer,Gastenkamerventilator
+fan.gang,Gang ventilator
+fan.honeywell_turbo,Honeywell-turboventilator
+fan.indoor_gym,Indoor sportschoolventilator
+fan.kinderkamer,Kinderkamer ventilator
+fan.keuken_1,Keukenventilatoren
+fan.keuken_2,Keukenventilatoren
+fan.keuken eiland,Koelende keukenventilator
+fan.keuken,Keukenventilator
+fan.wasruimte,Wasruimte ventilator
+fan.woonkamer_1,Woonkamer ventilator
+fan.woonkamer_2,Woonkamer ventilator
+fan.woonkamer_centrum,Centrale woonkamerventilator
+fan.woonkamer,Woonkamer ventilator
+fan.hoofdbad,Master badkamerventilator
+fan.kinderopvang,Kinderkamer ventilator
+fan.kantoor,Kantoorventilator
+fan.buitenkeuken,Buitenkeuken ventilator
+fan.buiten_terras,Buitenterrasventilator
+fan.buitenshuis,Buiten ventilator
+fan.patio,Terrasventilator
+fan.portiek,Veranda plafondventilator
+fan.schuur,Schuur ventilator
+fan.studie_1,Studie-fan
+fan.studie_2,Studie-fan
+fan.studie,studie fan
+garage_door.kelder,Kelder garagedeur
+garage_door.fietsenstalling,Deur van fietsenstalling
+garage_door.fietsenstalling,Fietsenstalling Garage
+garage_door.boot,Bootgaragedeur
+garage_door.boot,Bootopslagdeur
+garage_door.carport,Carport-garagedeur
+garage_door.carport,Carportdeur
+garage_door.kamerheer_1,Kamerheer
+garage_door.kamerheer_2,Kamerheer
+garage_door.golfwagentje,Golfkargarage
+garage_door.golfwagentje,Golfkar deur
+garage_door.kas,Deur van de kas
+garage_door.gast,Gastgaragedeur
+garage_door.gazon_apparatuur,Deur van gazonapparatuur
+garage_door.liftmaster_1,LiftMaster
+garage_door.liftmaster_2,LiftMaster
+garage_door.hoofd_1,Primaire garagedeur
+garage_door.voornaamst,Hoofdgaragedeur
+garage_door.motorfiets,Motorgarage
+garage_door.een auto,Garage voor één auto
+garage_door.huisdier_invoer,Toegangsdeur voor huisdieren
+garage_door.rv_opslag,Deur voor camperopslag
+garage_door.rv,RV-garagedeur
+garage_door.schuur_1,Eerste schuurdeur
+garage_door.schuur_2,Tweede schuurdeur
+garage_door.winkel,Werkplaats Garagedeur
+garage_door.linkerdeur,Linker garagedeur
+garage_door.kant_2,Garagedeur aan de zijkant
+garage_door.kant,Garagedeur aan de zijkant
+garage_door.Reserve,Reserve garagedeur
+garage_door.twee_auto,Garage voor twee auto's
+garage_door.bovenste niveau,Garage op het bovenste niveau
+garage_door.wijnkelder,Deur van wijnkelder
+light.bovenstaande_eettafel,Eettafellamp
+light.aquarium,Aquariumlicht
+light.zolder,Zolder licht
+light.achtertuin,Achtertuin licht
+light.kelder,Kelder licht
+light.badkamer_1,Badkamer licht
+light.badkamer_2,Badkamer licht
+light.badkamerspiegel,Spiegel lichten
+light.badkamer,Badkamer licht
+light.slaapkamer_1,Slaapkamer licht
+light.slaapkamer_2,Slaapkamer licht
+light.slaapkamer_3,Slaapkamer licht
+light.slaapkamer,Slaapkamer licht
+light.kast_onder_trap,Kastverlichting onder de trap
+light.deck_left,Linkerdeklicht
+light.eetkamer_1,Eetkamer licht
+light.eetkamer_kamer_2,Eetkamer licht
+light.eetkamer_kamer_3,Eetkamer licht
+light.eetkamer,Eetkamer licht
+light.oprit_1,Eerste opritverlichting
+light.oprit,Oprit licht
+light.voor_veranda,Veranda licht
+light.voortuin,Verlichting voortuin
+light.garage,Garagelicht
+light.tuin_1,Tuinlicht
+light.tuin_2,Tuinlicht
+light.tuinpad,Tuinpadverlichting
+light.tuin,Tuinlicht
+light.gast_kamer,Gastenkamer Verlichting
+light.gang_boven,Ganglicht boven
+light.gang,Gangverlichting
+light.gang,Gang licht
+light.hot_tub,Hottub verlichting
+light.keuken_1,Hoofdkeukenlicht
+light.keuken_2,Tweede keukenlamp
+light.aanrecht,Aanrechtlicht in de keuken
+light.aanrecht,Verlichting keukenblad
+light.keukentafel,Keukentafellamp
+light.keuken,Keuken licht
+light.lifx_master,Meester Licht
+light.woonkamer_1,Woonkamerverlichting
+light.woonkamer_2,Woonkamerverlichting
+light.woonkamer_plafond,Woonkamer plafondlamp
+light.woonkamer_plafond,Helder plafondlicht
+light.woonkamer,Woonkamer licht
+light.master_bedroom_1,Hoofdslaapkamerverlichting
+light.master_bedroom_2,Hoofdslaapkamerverlichting
+light.master_bedroom_lamp,Hoofdslaapkamerlamp
+light.kinderopvang,Kinderkamer licht
+light.kantoor_1,Kantoor licht
+light.kantoor_2,Kantoor licht
+light.bureau,Bureaulamp
+light.kantoor,Kantoor licht
+light.buitenshuis,Buitenverlichting
+light.terras_1,Buitenterrasverlichting
+light.patio,Terrasverlichting
+light.patio,Terraslicht
+light.philips_hue_1,Philips Hue
+light.philips_hue_2,Philips Hue
+light.zwembad,Zwembad licht
+light.schuur,Licht schijnen
+light.studie_1,Studie lichten
+light.studie_2,Studie lichten
+light.studie_3,Studie lichten
+light.studie,Studie licht
+light.werkbank,Garagewerkbanklamp
+light.yeelight_smart,Yeelight slim licht
+light.boven_master_bedroom_hue,Boven slaapkamer Tint
+light.beneden_gast_slaapkamer_zigbee,Beneden logeerkamer licht
+light.front_office_mqtt,Frontofficeverlichting
+light.back_family_room_warm,Terug Familiekamer Warm licht
+light.kitchen_counter_cool,Aanrecht koel licht
+light.boven_badkamer_homekit,Badkamerlamp boven
+light.beneden_woonkamer_lifx,Beneden Woonkamer Licht
+light.front_porch_zwave,Veranda licht
+light.zijgang_tint,Zijgang tint
+light.garage_osram,Garage Osram
+light.kelder_werkplaats_mqtt,Kelderwerkplaatslamp
+light.boven_kinderslaapkamer_zigbee,Kinderkamerlamp boven
+light.beneden_master_bedroom_homekit,Beneden slaapkamerlicht
+light.front_living_ge,Licht woonkamer voorzijde
+light.back_bedroom_warm,Achterslaapkamer Warm licht
+light.keuken_eiland_cool,Kookeiland koel licht
+light.boven_gang_zwave,Boven ganglicht
+light.beneden_badkamer_warm,Badkamer beneden Warm licht
+light.front_yard_osram,Voortuin Osram
+light.achtertuin_zwave,Achtertuin licht
+light.boven_gast_slaapkamer_zigbee,Boven logeerkamer licht
+light.beneden_kantoor_mqtt,Beneden kantoorverlichting
+light.front_bedroom_homekit,Licht slaapkamer voorzijde
+light.back_office_lifx,Backoffice-verlichting
+light.keuken_tafel_warm,Keukentafel Warm licht
+light.boven_tv_kamer_zigbee,Boven TV-kamerlicht
+light.beneden_tv_kamer_homekit,Beneden TV-kamerlicht
+light.front_tv_room_ge,Licht voor tv-kamer
+light.back_tv_room_warm,Terug TV-kamer Warm licht
+light.keuken_gootsteen_cool,Aanrecht Koel Licht
+light.boven_pantry_zwave,Boven Pantry licht
+light.beneden_pantry_mqtt,Beneden Pantry licht
+light.front_pantry_homekit,Voorraadkastlicht
+light.back_pantry_lifx,Achterkastverlichting
+light.keukenkast_warm,Keukenkast Warm Licht
+light.boven_corridor_zigbee,Boven Ganglicht
+light.beneden_gang_mqtt,Beneden Ganglicht
+light.front_corridor_homekit,Licht in de voorgang
+light.back_corridor_lifx,Achterganglicht
+light.garage_werkbank_cool,Garagewerkbank Cool Light
+light.boven_kinderkamer_zwave,Kinderkamerlamp boven
+light.beneden_kwekerij_mqtt,Beneden kinderkamerlicht
+light.front_nursery_homekit,Kinderverlichting vooraan
+light.back_nursery_warm,Terug Kinderkamer Warm Licht
+light.keuken_plafond_koel,Keukenplafond koel licht
+light.boven_lounge_zigbee,Loungelamp boven
+light.beneden_lounge_homekit,Beneden Loungelamp
+light.front_lounge_ge,Loungelamp vooraan
+light.back_lounge_warm,Achterlounge Warm licht
+light.kelder_opslag_koel,Kelderopslag Koel licht
+light.boven_kast_zwave,Bovenkast licht
+light.beneden_closet_mqtt,Beneden kast licht
+light.front_closet_homekit,Kastlicht vooraan
+light.back_closet_warm,Achterkast Warm licht
+light.boven_den_zigbee,Boven Den Licht
+light.beneden_den_homekit,Beneden Den Licht
+light.front_den_ge,Voorste denlicht
+light.back_den_warm,Back Den Warm licht
+light.keuken_raam_koel,Keukenraam koel licht
+light.boven_ingang_zwave,Ingangslicht boven
+light.beneden_ingang_mqtt,Beneden Ingangslicht
+light.front_entryway_homekit,Licht in de vooringang
+light.back_entryway_lifx,Licht in de achteringang
+light.keuken_bureau_warm,Keukenbureau Warm licht
+light.boven_mudroom_zigbee,Modderkamerlicht boven
+light.beneden_mudroom_homekit,Beneden Modderkamerlicht
+light.front_mudroom_ge,Modderkamerlicht vooraan
+light.back_mudroom_warm,Achter Modderkamer Warm licht
+light.keuken_vloer_cool,Keukenvloer koel licht
+light.boven_zolder_zwave,Boven zolderlicht
+light.beneden_zolder_mqtt,Beneden zolderlicht
+light.voor_zolder_homekit,Zolderlicht voorzijde
+light.back_attic_lifx,Terug zolderlicht
+light.keuken_lade_warm,Keukenlade Warm licht
+light.boven_serre_zigbee,Verandalicht boven
+light.beneden_serre_homekit,Beneden veranda licht
+light.front_serre_ge,Voorste veranda licht
+light.back_sunroom_warm,Terug Veranda Warm licht
+light.keuken_rek_cool,Keukenrek Cool Light
+light.boven_studie_zwave,Boven Studielicht
+light.beneden_studie_mqtt,Beneden Studielicht
+light.front_study_homekit,Studielicht vooraan
+light.back_study_lifx,Achterstudielamp
+light.keuken_bar_warm,Keukenbar Warm licht
+light.boven_dining_zigbee,Boven eetkamer licht
+light.beneden_eetkamer_homekit,Beneden Eetlicht
+light.front_dining_ge,Eetlicht aan de voorzijde
+light.back_dining_warm,Terug Dineren Warm licht
+light.kitchen_wall_cool,Keukenmuur koel licht
+light.boven_haard_zwave,Boven open haard licht
+light.beneden_haard_mqtt,Beneden open haard licht
+light.front_fireplace_homekit,Voorste open haard licht
+light.back_fireplace_lifx,Terug Open haardverlichting
+light.keuken_boekenplank_warm,Keukenboekenplank Warm licht
+light.boven_zijtuin_zigbee,Boven zijtuinlicht
+light.beneden_zijtuin_homekit,Beneden zijtuinlicht
+light.voor_zijtuin_ge,Voorzijde tuinlicht
+light.achtertuin_warm,Achterzijde tuin warm licht
+light.keuken_kast_cool,Keukenkastje Cool Light
+light.boven_cinema_zwave,Boven bioscooplicht
+light.beneden_bioscoop_mqtt,Beneden bioscooplicht
+light.front_cinema_homekit,Voorste bioscooplicht
+light.back_cinema_lifx,Terug bioscooplicht
+light.keuken_oven_warm,Keukenoven Warm licht
+light.boven_mancave_zigbee,Boven Man Cave Light
+light.beneden_mancave_homekit,Beneden Man Cave Light
+light.front_mancave_ge,Front Man Cave-licht
+light.back_mancave_warm,Terug Man Cave Warm licht
+light.keuken_plank_koel,Keukenplank Cool Light
+light.boven_balkon_zwave,Boven balkonlicht
+light.beneden_balkon_mqtt,Beneden balkonlicht
+light.front_balkon_homekit,Balkonlicht aan de voorkant
+light.back_balkon_lifx,Achterbalkonlicht
+light.keuken_kroonlijst_warm,Keukenkroonlijst Warm licht
+light.boven_trappenhuis_zigbee,Boven Trappenhuisverlichting
+light.beneden_trappenhuis_homekit,Beneden trappenhuis licht
+light.front_trappenhuis_ge,Trappenhuisverlichting vooraan
+light.back_trappenhuis_warm,Terug Trappenhuis Warm Licht
+light.keuken_spiegel_koel,Keukenspiegel Koel licht
+light.boven_kelder_zwave,Kelderlicht boven
+light.beneden_kelder_mqtt,Beneden Kelderlicht
+light.front_basement_homekit,Kelderlicht vooraan
+light.back_basement_lifx,Achterkelderverlichting
+light.keuken_raamzit_warm,Keukenraamstoel Warm licht
+light.boven_recreatie_zigbee,Boven Recreatie Licht
+light.beneden_recreatie_homekit,Beneden Recreatie Licht
+light.front_recreation_ge,Recreatielicht vooraan
+light.terug_recreatie_warm,Terug Recreatie Warm licht
+light.keuken_dressoir_cool,Keukendressoir Cool Light
+light.boven_binnenplaats_zwave,Boven binnenplaats licht
+light.beneden_binnenplaats_mqtt,Beneden binnenplaats licht
+light.front_courtyard_homekit,Voorste binnenplaats licht
+light.back_courtyard_lifx,Achtertuinlicht
+light.keuken_wijnkelder_warm,Keuken Wijnkelder Warm licht
+light.boven_arcade_zigbee,Boven Arcadelicht
+light.beneden_arcade_homekit,Beneden Arcadelicht
+light.front_arcade_ge,Arcadelicht vooraan
+light.back_arcade_warm,Terug Arcade Warm licht
+light.keuken_bijkeuken_cool,Keukenkast Koel licht
+light.boven_wasruimte_zwave,Boven wasruimte licht
+light.beneden_wasruimte_mqtt,Beneden wasruimte licht
+light.front_wasruimte_homekit,Licht in de wasruimte vooraan
+light.back_wasruimte_lifx,Achterverlichting in de toiletruimte
+light.keuken_koelkast_warm,Keukenkoelkast Warm licht
+light.boven_bibliotheek_zigbee,Bibliotheeklicht boven
+light.beneden_bibliotheek_homekit,Beneden Bibliotheeklicht
+light.front_library_ge,Bibliotheeklicht vooraan
+light.back_library_warm,Terug Bibliotheek Warm licht
+light.kitchen_coffeecorner_cool,Keuken Koffiehoek Cool Light
+light.boven_speelkamer_zwave,Boven speelkamerverlichting
+light.beneden_speelkamer_mqtt,Beneden Speelkamerverlichting
+light.front_playroom_homekit,Voorste speelkamerverlichting
+light.back_playroom_lifx,Terug Speelkamerverlichting
+light.keuken_magnetron_warm,Keuken Magnetron Warm Licht
+light.boven_observatorium_zigbee,Observatoriumlicht boven
+light.beneden_observatorium_homekit,Beneden Observatoriumlicht
+light.front_observatorium_ge,Voorste observatoriumlicht
+light.back_observatorium_warm,Terug Observatorium Warm licht
+light.keuken_broodrooster_cool,Keukenbroodrooster Koel licht
+light.boven_workout_zwave,Boventrainingslicht
+light.beneden_workout_mqtt,Beneden trainingslicht
+light.front_workout_homekit,Trainingslicht vooraan
+light.back_workout_lifx,Achtertrainingslicht
+light.keuken_display_warm,Keukendisplay Warm licht
+light.boven_utility_zigbee,Boven nutsverlichting
+light.beneden_utility_homekit,Beneden nutslicht
+light.front_utility_ge,Licht vooraan
+light.back_utility_warm,Terug Utility Warm licht
+light.keuken_prullenbak_cool,Keukenprullenbak Cool Light
+light.boven_zit_zwave,Zitkamerlicht boven
+light.beneden_sitting_mqtt,Beneden Zitkamer Licht
+light.front_sitting_homekit,Zitkamerlicht aan de voorzijde
+light.back_sitting_lifx,Achterkant Zitkamerlicht
+light.keuken_diepvriezer_warm,Keuken vriezer licht
+light.boven_zen_zigbee,Boven Zen Licht
+light.beneden_zen_homekit,Beneden Zen Licht
+light.front_zen_ge,Voorlicht
+light.back_zen_warm,Terug Zen-licht
+light.eetkamer_kamerkroonluchter,Eetkamer kroonluchter
+light.kroonluchter_voor_gang,Kroonluchter in de voorgang
+lock.achterdeur,Achterdeurslot
+lock.achterdeur,Toegangsslot achtertuin
+lock.kelder,Kelder slot
+lock.fietsenrek,Slot voor fietsenrek
+lock.fietsenstalling,Fietsenstalling slot
+lock.archiefkast,Archiefkast slot
+lock.voordeur_1,Hoofdingangsslot
+lock.voordeur,Voordeurslot
+lock.garage,Garagedeurslot
+lock.gast_kamer,Gastenkamerslot
+lock.pistool_veilig,Pistool veilig slot
+lock.postbus,Veilig brievenbusslot
+lock.hoofdslaapkamer,Hoofdslaapkamerslot
+lock.kinderopvang,Deurslot voor de kinderkamer
+lock.kantoor,Kantoorslot
+lock.patio_deur,Patio schuifdeur
+lock.pool_gate,Zwembadpoortslot
+lock.pool_gate,Zwembadpoort
+lock.een kluis,Kluis
+lock.schlage_smart,Schlage Smart Lock
+lock.schuur_2,Tweede loodssluis
+lock.gereedschap_schuur,Slot voor gereedschapsschuur
+lock.gereedschap_schuur,Slot voor gereedschapsschuur
+lock.bijkeuken,Bijkeuken slot
+lock.wijnkelder,Wijnkelder slot
+lock.wijnkelder,Slot van de wijnkelder
+lock.yale_keuken,Yale-keuken
+lock.yale_living,Yale-woonkamer
+lock.yoga_kamer,Slot voor yogaruimte
+lock.zolder,Zolderdeurslot
+lock.balkon_deur,Toegangsslot balkon
+lock.slaapkamer_2,Slot voor tweede slaapkamer
+lock.slaapkamer_3,Slot voor derde slaapkamer
+lock.botenhuis,Botenhuissluis
+lock.kast,Kastdeurslot
+lock.serre,Conservatorium Slot
+lock.den,Den Slot
+lock.eetkamer,Eetkamerslot
+lock.oprit_poort,Poortslot oprit
+lock.elektrische_poort,Elektrisch poortslot
+lock.lift,Privé liftslot
+lock.hek poort,Hek poortslot
+lock.archief_kamer,Archiefkamer slot
+lock.voor_poort,Slot voorpoort
+lock.tuinhek,Slot tuinpoort
+lock.kas,Kas Slot
+lock.Sportschool,Homegym slot
+lock.gang_kast,Gangkastslot
+lock.thuisbioscoop,Thuisbioscoopslot
+lock.kennel,Dierenkennelslot
+lock.keuken_deur,Toegangsslot keuken
+lock.wasruimte,Wasruimte slot
+lock.woonkamer,Woonkamerslot
+lock.zolder,Zolder Slot
+lock.modderkamer,Mudroom Slot
+lock.muziek Kamer,Muziekkamer slot
+lock.kantoor_kast,Slot voor kantoorkast
+lock.voorraadkast,Pantry slot
+lock.speelkamer,Speelkamer slot
+lock.veranda_deur,Veranda deurslot
+lock.achter_poort,Poortslot achter
+lock.dak_deur,Toegangsslot op het dak
+lock.sauna,Saunadeurslot
+lock.beveiligde_opslag,Veilig opbergslot
+lock.dienst_ingang,Toegangsslot dienst
+lock.zijdeur,Slot voor zij-ingang
+lock.zijpoort,Poortslot aan de zijkant
+lock.ski_opslag,Skiopslagslot
+lock.trap_poort,Traphekje slot
+lock.opslagruimte,Slot voor opslagruimte
+lock.studio,Studio slot
+lock.serre,Veranda slot
+lock.terras_deur,Slot voor terrasdeur
+lock.voertuig_poort,Voertuigpoortslot
+lock.inloopkast,Inloopkast slot
+lock.werkplaats,Werkplaats slot
+lock.werkplaats_kast,Slot voor werkplaatskast
+lock.tuin_schuur,Slot van de tuinschuur
+media_player.Apple TV,Apple TV-mediaspeler
+media_player.kelder,Mediaspeler in de kelder
+media_player.bose_bedroom,Bose-slaapkamer
+media_player.bose_living,Bose-woonkamer
+media_player.chrome_cast_bedroom,Chromecast voor slaapkamers
+media_player.chroomcast,Chromecast-media
+media_player.echo_punt,Keuken Echo Dot
+media_player.vuur_tv_stick,Fire TV-stick
+media_player.vuur_tv,Fire TV-media
+media_player.garage,Garagemediaspeler
+media_player.gast_kamer,Gastenkamermedia
+media_player.thuisbioscoop,Thuisbioscoopmedia
+media_player.ipad_keuken,Keuken iPad
+media_player.keuken,Keuken mediaspeler
+media_player.laptop_stream,Streaming-laptop
+media_player.woonkamer,Woonkamermedia
+media_player.hoofdslaapkamer,Media voor de hoofdslaapkamer
+media_player.nintendo_schakelaar,Nintendo-schakelaar
+media_player.kinderopvang,Mediaspeler voor de kinderkamer
+media_player.kantoor,Office-mediaspeler
+media_player.patio,Patio-mediaspeler
+media_player.ps5_woonkamer,Woonkamer PS5
+media_player.roku_slaapkamer,Roku-hoofdslaapkamer
+media_player.roku_slaapkamer,Roku-speler in de slaapkamer
+media_player.roku_living,Roku-woonkamer
+media_player.samsung_tv,Woonkamer-tv
+media_player.sonos_slaapkamer,Sonos-hoofdslaapkamer
+media_player.sonos_keuken,Sonos-keuken
+media_player.sonos_keuken,Sonos-luidspreker voor keuken
+media_player.sonos_living,Sonos-woonkamer
+media_player.soundbar_living_room,Soundbar in de woonkamer
+media_player.xbox_den,De Xbox-console
+media_player.sony_bravia_tv,Sony Smart LED-tv
+media_player.samsung_qled_tv,Samsung Quantum Dot-TV
+media_player.lg_oled_tv,LG OLED-televisie
+media_player.panasonic_4k_bluray_player,Panasonic Blueray-speler
+media_player.denon_av_receiver,Denon audio-video-ontvanger
+media_player.onkyo_tx_sr,Onkyo thuisbioscoopontvanger
+media_player.google_nest_hub,Google Assistent Smartdisplay
+media_player.amazon_echo_show,Amazon Echo Smart-scherm
+media_player.appel_tv_4k,Apple 4K-streamingapparaat
+media_player.roku_ultra,Roku hoogwaardige streamer
+media_player.Xbox One,Xbox One
+media_player.playstation_5,Sony PS5
+media_player.joes_ps5,Joe's PS5
+media_player.nintendo_switch_dock,Nintendo-consoledock
+media_player.sony_4k_projector,Sony thuisbioscoopprojector
+media_player.epson_home_cinema,Epson-videoprojector
+media_player.bose_home_speaker,Bose draadloze luidspreker
+media_player.sonos_beam,Sonos compacte soundbar
+media_player.Harman_kardon_aura,Harman Kardon glazen luidspreker
+media_player.bang_olufsen_beovision,B&O high-end televisie
+media_player.philips_ambilight_tv,Philips LED-tv met achtergrondverlichting
+media_player.vizio_smartcast_tv,Vizio Cast-compatibele tv
+media_player.sony_ps_lx310bt,Sony Bluetooth-platenspeler
+media_player.audio_technica_at_lp120,Audio Technica platenspeler
+media_player.samsung_hw_q90r,Samsung surround-soundbar
+media_player.sonos_arc,Sonos slimme soundbar
+media_player.home_theater_system_living_room,Woonkamer thuisbioscoop
+media_player.desktop_computer_media_suite,Desktopcomputer Mediacentrum
+media_player.aan de muur gemonteerde tv-slaapkamer,Slaapkamer aan de muur gemonteerde tv
+media_player.keuken_radio,Keukenradiospeler
+media_player.badkamer_luidspreker_systeem,Waterdichte badkamerluidspreker
+media_player.garage_werkplaats_stereo,Garagewerkplaats Stereo
+media_player.patio_outdoor_speakers,Patio-buitenluidsprekers
+media_player.kelder_projector_setup,Kelderprojectorsysteem
+media_player.office_pc_speakers,Luidsprekers voor kantoorcomputers
+media_player.bed_alarm_clock_radio,Wekkerradio naast het bed
+media_player.gaming_room_console,Gamekamerconsole
+media_player.lounge_hi_fi_systeem,Lounge-hifi-audio
+media_player.eetkamer_jukebox,Eetkamerjukebox
+media_player.gast_kamer_tv_set,Gastenkamer Televisie
+media_player.study_room_audio_book_player,Studie audioboekspeler
+media_player.serre_cd_player,Cd-speler in de serre
+media_player.zolder_vinyl_draaitafel,Zolder vinyl platenspeler
+media_player.achtertuin_buiten_projector,Achtertuinprojector
+media_player.entryway_voice_assistant,Stemassistent in de hal
+media_player.gang_muur_luidspreker,Wandluidspreker in de gang
+switch.zolder_lichten,Zolderverlichting schakelaar
+switch.balkon_verlichting,Controle van de balkonverlichting
+switch.kelder_lichten,Schakelaar voor kelderverlichting
+switch.badkamer_ventilator,Badkamerventilatorschakelaar
+switch.slaapkamerverlichting,Schakelaar voor slaapkamerverlichting
+switch.botenhuis_lichten,Boothuisverlichtingsschakelaar
+switch.kastverlichting,Kastverlichting regelen
+switch.serre_verlichting,Conservatoriumverlichting schakelaar
+switch.deck_lights,Dekverlichtingsschakelaar
+switch.den_lights,Den Lichtschakelaar
+switch.eetkamer_verlichting,Schakelaar voor eetkamerverlichting
+switch.oprit_lichten,Controle van de verlichting van de oprit
+switch.front_gate_lighting,Schakelaar voorpoortverlichting
+switch.voortuinverlichting,Schakelaar voor tuinverlichting
+switch.garagedeuropener,Garagedeuropenerschakelaar
+switch.tuinverlichting,Controle van de tuinverlichting
+switch.gastenkamerverlichting,Schakelaar voor verlichting in de gastenkamer
+switch.gang_lichten,Gangverlichting schakelaar
+switch.home_theater_verlichting,Controle van de thuisbioscoopverlichting
+switch.keukenverlichting,Schakelaar voor keukenverlichting
+switch.wasruimteverlichting,Wasruimteverlichtingsschakelaar
+switch.woonkamer_verlichting,Schakelaar woonkamerverlichting
+switch.loft_lights,Schakelaar voor zolderverlichting
+switch.master_bedroom_lights,Schakelaar voor verlichting in de hoofdslaapkamer
+switch.kantoorverlichting,Schakelaar voor kantoorverlichting
+switch.outdoor_security_lights,Buitenbeveiligingsverlichtingsschakelaar
+switch.voorraadkastlichten,Schakelaar voor voorraadkastverlichting
+switch.terrasverlichting,Terrasverlichting schakelaar
+switch.speelkamerverlichting,Schakelaar speelkamerverlichting
+switch.zwembad_gebied_verlichting,Controle van de verlichting van het zwembad
+switch.veranda_lichten,Veranda verlichting schakelaar
+switch.achterlichten,Schakelaar voor tuinverlichting achter
+switch.sauna_lichten,Schakelaar saunaverlichting
+switch.beveiligingssysteem,Beveiligingssysteemschakelaar
+switch.schuur_lichten,Schuurverlichting schakelaar
+switch.trapverlichting,Trapverlichting schakelaar
+switch.studeerkamerverlichting,Lichtschakelaar studeerkamer
+switch.serre_lights,Schakelaar voor verandaverlichting
+switch.terras_verlichting,Controle van terrasverlichting
+switch.onder_kastverlichting,Schakelaar voor verlichting onder kast
+switch.bijkeuken_verlichting,Lichtschakelaar bijkeuken
+switch.loopbrug_lichten,Schakelaar voor loopbrugverlichting
+switch.magazijn_lichten,Magazijnverlichtingschakelaar
+switch.water_feature_lights,Schakelaar voor waterpartijverlichting
+switch.werkplaatsverlichting,Schakelaar werkplaatsverlichting
+switch.tuin_schijnwerpers,Tuinschijnwerpersschakelaar
+switch.zoo_enclosure_lighting,Verlichtingsregeling dierentuinverblijf
+switch.zwembad_pomp,Zwembadpompschakelaar
+switch.irrigatie systeem,Irrigatiesysteemschakelaar
+switch.garage_werkplaats_verlichting,Schakelaar voor garagewerkplaatsverlichting
+climate.nest_learning,Nest Learning Thermostaat
+climate.ecobee_smart,Ecobee SmartThermostaat
+climate.honeywell_lyric_t6,Honeywell Lyric T6 Pro
+climate.emerson_sensi_touch,Emerson Sensi Touch Wi-Fi-thermostaat
+climate.bosch_bcc100,Bosch BCC100 aangesloten bediening
+climate.johnson_glas,Johnson Controls GLAS slimme thermostaat
+climate.thermostaat_lux_geo,Lux Geo Wi-Fi-thermostaat
+climate.tado_smart,Tado Slimme Thermostaat
+climate.trane_comfortlink_ii,Trane ComfortLink II XL1050
+climate.vervoerder_cor,Carrier Cor Wi-Fi-thermostaat
+climate.netatmo_smart,Netatmo Slimme Thermostaat
+climate.sinope_smart,Sinopé slimme thermostaat
+climate.kono_thermostaat,Kono slimme thermostaat
+climate.mysa_smart_thermostaat,Mysa slimme thermostaat voor elektrische plintverwarmers
+climate.zen_wifi_thermostaat,Zen Thermostaat WiFi-editie
+vacuum.woonkamer_kamerba,Woonkamer stofzuiger
+vacuum.kitchen_xiaomi,Keuken vacuüm
+vacuum.boven_dyson,Boven stofbreker
+vacuum.kelder_deebot,Kelder deebot
+vacuum.master_bedroom_haai,Stofzuiger in de hoofdslaapkamer
+vacuum.garage_roomba_2,Garagereinigingsbot
+vacuum.onder_sofa_cleaner,Reiniger voor onder de bank
+vacuum.eetgedeelte_bissel,Vuilverwijderaar voor de eethoek
+vacuum.gang_neato,Gangpadreiniger
+vacuum.entryway_eufy,Stofafscheider in de ingang
+vacuum.patio_doorway_vac,Reiniger voor terrasdeuropeningen
+vacuum.linkerhoek_bot,Vuilzuiger in de linkerhoek
+vacuum.rechter_trappenhuisveger,Rechter trappenhuisreiniger
+vacuum.boven_badkamer_vac,Badkamerhulp boven
+vacuum.beneden_gastenkamer,Beneden gastenkamer vac
+vacuum.smart_home_automator,Slimme huisreinigingsbot
+vacuum.boven_trap_robot,Afstofapparaat boven trappen
+vacuum.onder_bed_cleaner,Stofafscheider onder bed
+vacuum.front_hall_samsung,Veegbot voor de voorhal
+vacuum.achterdekveger,Reiniger van het achterdek
+todo.dagelijkse_klussen_lijst,Tracker voor dagelijkse klusjes
+todo.boodschappenlijst,Organisator van boodschappen
+todo.weekend_projecten,Weekend DIY-projectenlijst
+todo.family_event_planner,Planner voor familie-evenementen
+todo.workout_routine_tracker,Trainingsroutineplanner
+todo.kids_homework_deadlines,Deadlines voor huiswerk voor kinderen
+todo.huisdier_vaccinatie_schema,Vaccinatieplanner voor huisdieren
+todo.auto-onderhoudslogboek,Auto-onderhoudstracker
+todo.verjaardagsherinneringslijst,Herinneringslijst voor verjaardagen
+todo.jubileum_planner,Planner voor jubileumevenementen
+todo.vakantie_planning,Assistent vakantieplanning
+todo.boek_lees_lijst,Organisator van leeslijsten
+todo.film_kijklijst,Kijklijst voor filmavonden
+todo.recept_verzameling,Receptenverzameling
+todo.home_renovatie_planner,Planner voor renovatie van woningen
+todo.tuinonderhoudsschema,Tuinonderhoudsplanner
+todo.factuur_betaling_herinneringen,Betalingsherinneringen voor facturen
+todo.verzekering_verlenging_alerts,Waarschuwingen voor verlenging van verzekeringen
+todo.abonnementsbeheer,Hulpmiddel voor abonnementsbeheer
+todo.garantie_tracker,Tracker voor het verlopen van de garantie
+timer.keuken_oven,Timer voor keukenoven
+timer.wasmachine_1,Wascyclustracker
+timer.tuin_water geven,Tuinbesproeiingsplanner
+timer.front_porch_lights,Lichttimer voor veranda
+timer.achtertuin_schijnwerpers,Achtertuin schijnwerpercontroller
+timer.garagedeur_1,Timer voor garagedeur
+timer.slaapkamer_lamp_timer,Planner voor slaapkamerlampen
+timer.eetkamer_dimmer,Timer voor eetkamerverlichting
+timer.boven_gang,Timer in de gang boven
+timer.beneden_kast_licht,Kasttimer beneden
+timer.entree_kroonluchter,Timer voor kroonluchter in de hal
+timer.terrasverlichting,Timer voor terrassfeer
+timer.oprit_beveiligingslichten,Oprit beveiligingstimer
+timer.kinderkamer_nachtlampje,Nachtlampje voor kinderkamer
+timer.timer0,Timer voor algemeen gebruik
+timer.timer7,Aangepaste timer 7
+timer.mijn_timer,Gepersonaliseerde timer
+timer.Keukenwekker,Aftellen van de keuken
+timer.was_aftellen,Wascyclustimer
+timer.ochtend_alarm,Wekalarm in de ochtend
+timer.workout_timer,Timer van trainingssessie
+timer.studie_sessie,Focustimer voor studeren
+timer.meditatie_klok,Meditatieduur-tracker
+timer.baby_nap_timer,Babydutje monitor
+timer.thee_trekken,Aftellen van het trekken van thee
+timer.game_timer,Bordspeltimer
+timer.ochtend koffie,Timer voor het zetten van koffie in de ochtend

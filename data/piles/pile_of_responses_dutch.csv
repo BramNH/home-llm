@@ -1,0 +1,660 @@
+service,response,language,persona,short
+blinds.open,De gordijnen voor u openen.,nl,assistant,0
+blinds.open,Ik zal doorgaan en de jaloezieën openen.,nl,assistant,0
+blinds.open,"Zeker, ik doe nu de gordijnen open.",nl,assistant,0
+blinds.close,Het sluiten van de zonwering zoals u vroeg.,nl,assistant,0
+blinds.close,Ik zal de gordijnen voor je sluiten.,nl,assistant,0
+blinds.close,"Zeker, de gordijnen dichtdoen.",nl,assistant,0
+blinds.stop,Nu de jaloezieën stopzetten.,nl,assistant,0
+blinds.stop,Ik zal de jaloezieën voor je dichtdoen.,nl,assistant,0
+blinds.stop,"Zeker, het stoppen van de beweging van de jaloezieën.",nl,assistant,0
+blinds.toggle,De status van de jaloezieën voor u omschakelen.,nl,assistant,0
+blinds.toggle,De status van de jaloezieën wordt nu gewijzigd.,nl,assistant,0
+blinds.toggle,Ik zal de gordijnen voor je opendoen.,nl,assistant,0
+blinds.open,Het optillen van <device_name> jaloezieën zoals gevraagd,nl,assistant,0
+blinds.open,Open <device_name> nu,nl,assistant,0
+blinds.open,<device_name> voor u verhogen,nl,assistant,0
+blinds.stop,Positie van <device_name> bevriezen,nl,assistant,0
+blinds.stop,<device_name> wordt nu stopgezet,nl,assistant,0
+blinds.stop,Bewerking van <device_name> stoppen,nl,assistant,0
+blinds.open,<device_name> verhogen,nl,assistant,0
+blinds.close,Sluit <device_name> voor u,nl,assistant,0
+blinds.close,Verlaag <device_name> nu,nl,assistant,0
+blinds.close,Sluit <device_name> af zoals gevraagd,nl,assistant,0
+blinds.close,<device_name> verlagen,nl,assistant,0
+blinds.toggle,De status van <device_name> wordt nu omgedraaid,nl,assistant,0
+blinds.toggle,De status van <device_name> wordt gewijzigd zoals gevraagd,nl,assistant,0
+blinds.toggle,Ik schakel <device_name> voor u in,nl,assistant,0
+blinds.toggle,<device_name> omschakelen,nl,assistant,0
+climate.set_humidity,Vochtigheid verhogen naar <humidity>.,nl,assistant,0
+climate.set_humidity,Vochtigheid instellen op <humidity> procent.,nl,assistant,0
+climate.set_humidity,Vochtigheid aanpassen naar <humidity>%.,nl,assistant,0
+climate.set_fan_mode,De ventilator instellen op <fan_mode> snelheid.,nl,assistant,0
+climate.set_fan_mode,De ventilator op <fan_mode> zetten.,nl,assistant,0
+climate.set_fan_mode,De ventilator wijzigen in <fan_mode> instelling.,nl,assistant,0
+climate.set_hvac_mode,Overschakelen naar <hvac_mode>-modus.,nl,assistant,0
+climate.set_hvac_mode,De HVAC instellen op <hvac_mode>.,nl,assistant,0
+climate.set_hvac_mode,HVAC wijzigen in <hvac_mode>-modus.,nl,assistant,0
+climate.set_temperature,Temperatuur instellen op <temp_f> graden.,nl,assistant,0
+climate.set_temperature,Temperatuur wijzigen naar <temp_c> Celsius.,nl,assistant,0
+climate.set_temperature,De kamer instellen op <temp_f> graden Fahrenheit.,nl,assistant,0
+climate.set_temperature,Temperatuur aanpassen naar <temp_f> graden Fahrenheit.,nl,assistant,0
+climate.set_temperature,Stel de kamer in op <temp_c> graden Celsius voor een koelere temperatuur.,nl,assistant,0
+climate.set_temperature,"Het warmer maken, de temperatuur instellen op <temp_f> graden.",nl,assistant,0
+climate.set_temperature,Verlaag de temperatuur naar <temp_c> Celsius.,nl,assistant,0
+climate.set_temperature,De temperatuur verhogen naar <temp_f> graden Fahrenheit.,nl,assistant,0
+fan.turn_on,Ik zet de ventilator voor je aan.,nl,assistant,0
+fan.turn_on,Ik zal de ventilator voor je aanzetten.,nl,assistant,0
+fan.turn_on,"Oké, ik zet de ventilator nu aan.",nl,assistant,0
+fan.turn_off,Het uitschakelen van de ventilator zoals gevraagd.,nl,assistant,0
+fan.turn_off,Ik zet de ventilator voor je uit.,nl,assistant,0
+fan.turn_off,"Oké, zet de ventilator uit.",nl,assistant,0
+fan.toggle,Ik zal de status van de ventilator voor je wijzigen.,nl,assistant,0
+fan.toggle,Ik schakel nu de ventilator in.,nl,assistant,0
+fan.toggle,De status van de ventilator voor u wijzigen.,nl,assistant,0
+fan.increase_speed,Het verhogen van de ventilatorsnelheid voor u.,nl,assistant,0
+fan.increase_speed,"Zeker, ik zet de ventilator nu sneller.",nl,assistant,0
+fan.increase_speed,Ik ga door en maak de ventilator sneller.,nl,assistant,0
+fan.decrease_speed,Het verlagen van de ventilatorsnelheid zoals u had gevraagd.,nl,assistant,0
+fan.decrease_speed,Ik zal de ventilator voor je vertragen.,nl,assistant,0
+fan.decrease_speed,"Zeker, de ventilatorsnelheid verlagen.",nl,assistant,0
+fan.toggle,De status van <device_name> wordt voor u omgedraaid,nl,assistant,0
+fan.toggle,De status van <device_name> wordt gewijzigd zoals gevraagd,nl,assistant,0
+fan.toggle,Schakel nu <device_name> in,nl,assistant,0
+fan.turn_on,Activeer nu <device_name>,nl,assistant,0
+fan.turn_on,<device_name> voor u starten,nl,assistant,0
+fan.turn_on,"Zeker, vanaf <device_name>",nl,assistant,0
+fan.turn_on,<device_name> inschakelen,nl,assistant,0
+fan.turn_on,<device_name> starten,nl,assistant,0
+fan.turn_off,Deactiveer <device_name> zoals gevraagd,nl,assistant,0
+fan.turn_off,Ik stop <device_name> voor jou,nl,assistant,0
+fan.turn_off,"Zeker, het stoppen van <device_name>",nl,assistant,0
+fan.turn_off,<device_name> uitschakelen,nl,assistant,0
+fan.decrease_speed,Snelheid van <device_name> verlagen,nl,assistant,0
+fan.decrease_speed,Verlaag de snelheid van <device_name> zoals gevraagd,nl,assistant,0
+fan.decrease_speed,Ik vertraag <device_name> voor je,nl,assistant,0
+fan.increase_speed,Toenemende snelheid van <device_name>,nl,assistant,0
+fan.increase_speed,Voer nu de snelheid van <device_name> op,nl,assistant,0
+fan.increase_speed,Wij versnellen <device_name> voor u,nl,assistant,0
+fan.increase_speed,Toenemende snelheid van <device_name>,nl,assistant,0
+fan.decrease_speed,Snelheid van <device_name> verlagen,nl,assistant,0
+garage_door.open,De garagedeur voor u openen.,nl,assistant,0
+garage_door.open,"Natuurlijk, ik zal de garagedeur openen.",nl,assistant,0
+garage_door.open,Ik ga door en open de garagedeur.,nl,assistant,0
+garage_door.close,Het sluiten van de garagedeur zoals gevraagd.,nl,assistant,0
+garage_door.close,Ik zal de garagedeur voor je sluiten.,nl,assistant,0
+garage_door.close,"Zeker, de garagedeur sluiten.",nl,assistant,0
+garage_door.stop,Ik stop nu de garagedeur.,nl,assistant,0
+garage_door.stop,Ik zal de garagedeur voor je dichthouden.,nl,assistant,0
+garage_door.stop,"Natuurlijk, ik zal de beweging van de garagedeur stoppen.",nl,assistant,0
+garage_door.toggle,De status van de garagedeur voor u omschakelen.,nl,assistant,0
+garage_door.toggle,Ik zal nu de status van de garagedeur wijzigen.,nl,assistant,0
+garage_door.toggle,De status van de garagedeur voor u wijzigen.,nl,assistant,0
+garage_door.open,We nemen <device_name> voor je op,nl,assistant,0
+garage_door.open,Open <device_name> nu,nl,assistant,0
+garage_door.open,Verhoog <device_name> zoals gevraagd,nl,assistant,0
+garage_door.stop,Positie van <device_name> wordt nu bevroren,nl,assistant,0
+garage_door.stop,"Zeker, het stoppen van <device_name>",nl,assistant,0
+garage_door.stop,Bewerking van <device_name> wordt stopgezet,nl,assistant,0
+garage_door.open,<device_name> openen,nl,assistant,0
+garage_door.stop,<device_name> stoppen,nl,assistant,0
+garage_door.close,Sluit <device_name> nu,nl,assistant,0
+garage_door.close,Ik verlaag <device_name> voor jou,nl,assistant,0
+garage_door.close,Sluit <device_name> af zoals gevraagd,nl,assistant,0
+garage_door.close,<device_name> sluiten,nl,assistant,0
+garage_door.toggle,De status van <device_name> wordt nu omgedraaid,nl,assistant,0
+garage_door.toggle,De status van <device_name> wordt gewijzigd zoals gevraagd,nl,assistant,0
+garage_door.toggle,Ik schakel <device_name> voor u in,nl,assistant,0
+garage_door.toggle,<device_name> omschakelen,nl,assistant,0
+light.turn_on,Het licht voor u aandoen.,nl,assistant,0
+light.turn_on,"Natuurlijk, ik doe nu het licht aan.",nl,assistant,0
+light.turn_on,Ik ga door en doe het licht aan.,nl,assistant,0
+light.turn_off,Doe het licht uit zoals gevraagd.,nl,assistant,0
+light.turn_off,Ik doe het licht voor je uit.,nl,assistant,0
+light.turn_off,"Zeker, het licht uitdoen.",nl,assistant,0
+light.toggle,Het licht voor u aan of uit zetten.,nl,assistant,0
+light.toggle,De status van het licht wordt nu gewijzigd.,nl,assistant,0
+light.toggle,Ik doe het licht voor je aan.,nl,assistant,0
+light.toggle,De status <device_name> omdraaien,nl,assistant,0
+light.toggle,De status van <device_name> wordt gewijzigd zoals gevraagd,nl,assistant,0
+light.toggle,Ik schakel <device_name> voor u in,nl,assistant,0
+light.toggle,<device_name> omschakelen,nl,assistant,0
+light.turn_on,Activering van <device_name> wordt uitgevoerd,nl,assistant,0
+light.turn_on,"Zeker, als je <device_name> nu inschakelt",nl,assistant,0
+light.turn_on,Ik schakel <device_name> voor u in,nl,assistant,0
+light.turn_on,<device_name> inschakelen,nl,assistant,0
+light.turn_on,<device_name> activeren,nl,assistant,0
+light.turn_on,De helderheid van <device_name> instellen op <brightness>%.,nl,assistant,0
+light.turn_on,<device_name> dimmen naar <brightness>% helderheid.,nl,assistant,0
+light.turn_on,<device_name> lichter maken naar <brightness>%.,nl,assistant,0
+light.turn_on,De helderheid van <device_name> aanpassen naar <brightness>.,nl,assistant,0
+light.turn_on,De helderheid van <device_name> verhogen naar <brightness>.,nl,assistant,0
+light.turn_on,De helderheid van <device_name> verlagen naar <brightness>.,nl,assistant,0
+light.turn_on,Het helderheidsniveau van <device_name> instellen op <brightness>%.,nl,assistant,0
+light.turn_on,Stel <device_name> in op <brightness>% helderheid.,nl,assistant,0
+light.turn_on,<device_name> <color> veranderen.,nl,assistant,0
+light.turn_on,De kleur van <device_name> wijzigen in <color>.,nl,assistant,0
+light.turn_on,<device_name> wijzigen in een tint <color>.,nl,assistant,0
+light.turn_on,Stel <device_name> in op <color>.,nl,assistant,0
+light.turn_on,Laat <device_name> schitteren in <color>.,nl,assistant,0
+light.turn_on,<device_name> in een <color> tint veranderen.,nl,assistant,0
+light.turn_on,<device_name> instellen op een <color>.,nl,assistant,0
+light.turn_on,<device_name> instellen op een <color> kleur.,nl,assistant,0
+light.turn_on,Laat <device_name> oplichten <color>.,nl,assistant,0
+light.turn_on,<device_name> veranderen in <color>.,nl,assistant,0
+light.turn_on,Wijzig <device_name> in <color>.,nl,assistant,0
+light.turn_on,De kleur van <device_name> aanpassen naar <color>.,nl,assistant,0
+light.turn_on,De kleur van <device_name> wordt gewijzigd in <color>.,nl,assistant,0
+light.turn_on,<device_name> instellen in <color>.,nl,assistant,0
+light.turn_on,Zorg ervoor dat <device_name> een <color> licht weergeeft.,nl,assistant,0
+light.turn_on,De kleur van <device_name> instellen op <color>.,nl,assistant,0
+light.turn_off,Deactiveer <device_name> zoals gevraagd,nl,assistant,0
+light.turn_off,Ik schakel <device_name> nu uit,nl,assistant,0
+light.turn_off,"Oké, schakel <device_name> uit",nl,assistant,0
+light.turn_off,<device_name> uitschakelen,nl,assistant,0
+light.turn_off,<device_name> deactiveren,nl,assistant,0
+lock.lock,De deur voor je op slot doen.,nl,assistant,0
+lock.lock,Ik ga verder en doe de deur op slot.,nl,assistant,0
+lock.lock,"Zeker, het slot beveiligen.",nl,assistant,0
+lock.unlock,De deur ontgrendelen zoals u vroeg.,nl,assistant,0
+lock.unlock,Ik zal de deur voor je openen.,nl,assistant,0
+lock.unlock,"Zeker, de deur van het slot halen.",nl,assistant,0
+lock.lock,Vergrendeling op <device_name> inschakelen,nl,assistant,0
+lock.lock,<device_name> nu vergrendelen,nl,assistant,0
+lock.lock,Beveiligen van <device_name> voor u,nl,assistant,0
+lock.lock,<device_name> vergrendelen,nl,assistant,0
+lock.lock,Beveiligen van <device_name>,nl,assistant,0
+lock.unlock,Vergrendeling op <device_name> uitschakelen,nl,assistant,0
+lock.unlock,Ontgrendel <device_name> nu,nl,assistant,0
+lock.unlock,De beveiliging van <device_name> voor u ongedaan gemaakt,nl,assistant,0
+lock.unlock,Ontgrendelen <device_name>,nl,assistant,0
+media_player.turn_on,De mediaspeler voor u aanzetten.,nl,assistant,0
+media_player.turn_on,Ik zet de mediaspeler aan.,nl,assistant,0
+media_player.turn_on,"Zeker, de mediaspeler activeren.",nl,assistant,0
+media_player.turn_off,De mediaspeler uitschakelen zoals gevraagd.,nl,assistant,0
+media_player.turn_off,Ik zet de mediaspeler uit.,nl,assistant,0
+media_player.turn_off,"Zeker, de mediaspeler deactiveren.",nl,assistant,0
+media_player.toggle,De mediaspeler voor u schakelen.,nl,assistant,0
+media_player.toggle,De status van de mediaspeler wijzigen.,nl,assistant,0
+media_player.toggle,Ik schakel de mediaspeler in.,nl,assistant,0
+media_player.volume_up,Het volume voor u verhogen.,nl,assistant,0
+media_player.volume_up,"Zeker, ik zet nu het volume hoger.",nl,assistant,0
+media_player.volume_up,Ik ga door en verhoog het volume.,nl,assistant,0
+media_player.volume_down,Het volume verlagen zoals u vroeg.,nl,assistant,0
+media_player.volume_down,Ik zal het volume voor je zachter zetten.,nl,assistant,0
+media_player.volume_down,"Zeker, het volume verlagen.",nl,assistant,0
+media_player.volume_mute,Het volume voor u dempen.,nl,assistant,0
+media_player.volume_mute,Ik zal de mediaspeler nu dempen.,nl,assistant,0
+media_player.volume_mute,"Zeker, het volume dempen.",nl,assistant,0
+media_player.media_play_pause,Afspelen/pauzeren op de mediaspeler.,nl,assistant,0
+media_player.media_play_pause,Wisselen tussen afspelen en pauzeren.,nl,assistant,0
+media_player.media_play_pause,Ik schakel voor je tussen afspelen en pauzeren.,nl,assistant,0
+media_player.media_play,Media afspelen starten.,nl,assistant,0
+media_player.media_play,Ik zal de media voor je afspelen.,nl,assistant,0
+media_player.media_play,"Oké, het afspelen begint.",nl,assistant,0
+media_player.media_pause,Het afspelen van media pauzeren.,nl,assistant,0
+media_player.media_pause,Ik pauzeer de media voor je.,nl,assistant,0
+media_player.media_pause,"Zeker, het afspelen pauzeren.",nl,assistant,0
+media_player.media_stop,Het afspelen van media stoppen.,nl,assistant,0
+media_player.media_stop,Ik zal de media voor je stoppen.,nl,assistant,0
+media_player.media_stop,"Zeker, het afspelen stoppen.",nl,assistant,0
+media_player.media_next_track,Naar het volgende nummer springen.,nl,assistant,0
+media_player.media_next_track,Ik ga voor je naar het volgende nummer.,nl,assistant,0
+media_player.media_next_track,"Zeker, we gaan naar het volgende nummer.",nl,assistant,0
+media_player.media_previous_track,Teruggaan naar het vorige nummer.,nl,assistant,0
+media_player.media_previous_track,Ik ga voor je terug naar het vorige nummer.,nl,assistant,0
+media_player.media_previous_track,"Natuurlijk, teruggaan naar het vorige nummer.",nl,assistant,0
+media_player.volume_up,Het volume van <device_name> verhogen.,nl,assistant,0
+media_player.volume_up,Zet <device_name> een beetje hoger.,nl,assistant,0
+media_player.volume_up,<device_name> luider maken.,nl,assistant,0
+media_player.media_play,Afspelen starten op <device_name>.,nl,assistant,0
+media_player.media_play,Speel <device_name> nu af.,nl,assistant,0
+media_player.media_play,Media afspelen op <device_name>.,nl,assistant,0
+media_player.media_stop,<device_name> volledig stoppen.,nl,assistant,0
+media_player.media_stop,Afspelen stoppen op <device_name>.,nl,assistant,0
+media_player.media_stop,Sessie beëindigen op <device_name>.,nl,assistant,0
+media_player.volume_down,Het volume van <device_name> verlagen.,nl,assistant,0
+media_player.volume_down,Het volume van <device_name> verlagen.,nl,assistant,0
+media_player.volume_down,<device_name> wordt uitgeschakeld.,nl,assistant,0
+media_player.volume_mute,<device_name> dempen.,nl,assistant,0
+media_player.volume_mute,<device_name> stilzetten.,nl,assistant,0
+media_player.volume_mute,Demp <device_name> nu.,nl,assistant,0
+media_player.media_pause,<device_name> onderbreken.,nl,assistant,0
+media_player.media_pause,Pauzeert <device_name> nu.,nl,assistant,0
+media_player.media_pause,Afspelen pauzeren op <device_name>.,nl,assistant,0
+media_player.media_next_track,Naar het volgende nummer gaan op <device_name>.,nl,assistant,0
+media_player.media_next_track,Doorgaan naar het volgende nummer op <device_name>.,nl,assistant,0
+media_player.media_next_track,Dit nummer overslaan op <device_name>.,nl,assistant,0
+media_player.media_previous_track,Teruggaan naar het vorige nummer op <device_name>.,nl,assistant,0
+media_player.media_previous_track,Terugspoelen naar het vorige nummer op <device_name>.,nl,assistant,0
+media_player.media_previous_track,Een nummer teruggaan op <device_name>.,nl,assistant,0
+switch.turn_on,Ik zet de schakelaar voor u aan.,nl,assistant,0
+switch.turn_on,"Natuurlijk, ik doe nu het licht aan.",nl,assistant,0
+switch.turn_on,Ik ga door en zet de schakelaar aan.,nl,assistant,0
+switch.turn_off,Zet de schakelaar uit zoals gevraagd.,nl,assistant,0
+switch.turn_off,Ik schakel het apparaat voor je uit.,nl,assistant,0
+switch.turn_off,"Zeker, de schakelaar uitzetten.",nl,assistant,0
+switch.toggle,Ik zet de schakelaar voor u om.,nl,assistant,0
+switch.toggle,De status van de schakelaar nu wijzigen.,nl,assistant,0
+switch.toggle,Ik zet de schakelaar voor je om.,nl,assistant,0
+switch.toggle,<device_name> omschakelen.,nl,assistant,0
+switch.toggle,"Ja, <device_name> schakelen.",nl,assistant,0
+switch.toggle,"Ja, ik kan <device_name> wijzigen.",nl,assistant,0
+switch.toggle,Schakel <device_name> in zoals gevraagd.,nl,assistant,0
+switch.toggle,De status van <device_name> wijzigen.,nl,assistant,0
+switch.toggle,Snel schakelen tussen <device_name>.,nl,assistant,0
+switch.turn_on,Ik zet <device_name> nu aan.,nl,assistant,0
+switch.turn_on,Ik zet <device_name> aan.,nl,assistant,0
+switch.turn_on,<device_name> activeren.,nl,assistant,0
+switch.turn_on,"Oké, je zet <device_name> aan.",nl,assistant,0
+switch.turn_on,Schakel <device_name> meteen in.,nl,assistant,0
+switch.turn_on,"Oké, verlicht nu <device_name>.",nl,assistant,0
+switch.turn_on,Schakel <device_name> indien nodig in.,nl,assistant,0
+switch.turn_off,<device_name> uitschakelen.,nl,assistant,0
+switch.turn_off,<device_name> uitschakelen.,nl,assistant,0
+switch.turn_off,<device_name> deactiveren.,nl,assistant,0
+switch.turn_off,"Oké, ik zet <device_name> uit.",nl,assistant,0
+switch.turn_off,"Oké, ik schakel <device_name> uit.",nl,assistant,0
+switch.turn_off,<device_name> wordt uitgeschakeld voor bedtijd.,nl,assistant,0
+switch.turn_off,Ik schakel <device_name> nu uit.,nl,assistant,0
+blinds.close,afsluiten van <device_name>,nl,assistant,1
+blinds.close,<device_name> verlagen,nl,assistant,1
+blinds.close,<device_name> sluiten,nl,assistant,1
+blinds.open,<device_name> verhogen,nl,assistant,1
+blinds.open,<device_name> opheffen,nl,assistant,1
+blinds.open,<device_name> openen,nl,assistant,1
+fan.decrease_speed,<device_name> wordt langzamer,nl,assistant,1
+fan.decrease_speed,snelheid van <device_name> verlagen,nl,assistant,1
+fan.decrease_speed,<device_name> verkleinen,nl,assistant,1
+fan.increase_speed,<device_name> versnellen,nl,assistant,1
+fan.increase_speed,toenemende snelheid van <device_name>,nl,assistant,1
+fan.increase_speed,<device_name> opvoeren,nl,assistant,1
+fan.toggle,schakelen tussen <device_name>,nl,assistant,1
+fan.toggle,<device_name> omdraaien,nl,assistant,1
+fan.turn_off,<device_name> stoppen,nl,assistant,1
+fan.turn_off,<device_name> uitschakelen,nl,assistant,1
+fan.turn_off,het deactiveren van <device_name>,nl,assistant,1
+fan.turn_on,starten van <device_name>,nl,assistant,1
+fan.turn_on,<device_name> activeren,nl,assistant,1
+garage_door.close,afsluiten van <device_name>,nl,assistant,1
+garage_door.close,het deactiveren van <device_name>,nl,assistant,1
+garage_door.close,<device_name> sluiten,nl,assistant,1
+garage_door.open,<device_name> openen,nl,assistant,1
+garage_door.open,<device_name> opheffen,nl,assistant,1
+garage_door.stop,<device_name> stoppen,nl,assistant,1
+light.toggle,schakelen tussen <device_name>,nl,assistant,1
+light.toggle,<device_name> omdraaien,nl,assistant,1
+light.turn_off,<device_name> uitschakelen,nl,assistant,1
+light.turn_off,het deactiveren van <device_name>,nl,assistant,1
+light.turn_off,<device_name> verlagen,nl,assistant,1
+light.turn_off,<device_name> uitschakelen,nl,assistant,1
+light.turn_on,<device_name> inschakelen,nl,assistant,1
+light.turn_on,<device_name> activeren,nl,assistant,1
+light.turn_on,<device_name> inschakelen,nl,assistant,1
+light.turn_on,beide <device_name> inschakelen,nl,assistant,1
+lock.lock,beveiligen van <device_name>,nl,assistant,1
+lock.lock,<device_name> vergrendelen,nl,assistant,1
+lock.unlock,ontgrendeling van <device_name>,nl,assistant,1
+lock.unlock,ontgrendelt <device_name>,nl,assistant,1
+blinds.open,Ik open de jaloezieën voor je.,nl,pirate,0
+blinds.open,"Ja, ik zal de jaloezieën openen.",nl,pirate,0
+blinds.open,"Ja, doe nu de gordijnen open.",nl,pirate,0
+blinds.close,Sluit de jaloezieën zoals je gevraagd hebt.,nl,pirate,0
+blinds.close,Ik zal de gordijnen voor je sluiten.,nl,pirate,0
+blinds.close,"Ja, ik doe de gordijnen dicht.",nl,pirate,0
+blinds.stop,Stop nu de jaloezieën.,nl,pirate,0
+blinds.stop,Ik zal de jaloezieën voor je dichtdoen.,nl,pirate,0
+blinds.stop,"Ja, stop de beweging van de jaloezieën.",nl,pirate,0
+blinds.toggle,Schakel de staat van de blinden voor je in.,nl,pirate,0
+blinds.toggle,Schakel nu de status van de jaloezieën in.,nl,pirate,0
+blinds.toggle,Ik zal de jaloezieën voor je optrekken.,nl,pirate,0
+blinds.open,Het optillen van <device_name> verblindt Yarr,nl,pirate,0
+blinds.open,Open <device_name> nu,nl,pirate,0
+blinds.open,Roep <device_name> op voor jou,nl,pirate,0
+blinds.stop,Bevries de positie van <device_name>,nl,pirate,0
+blinds.stop,Stop nu met <device_name>,nl,pirate,0
+blinds.stop,Stop de bewerking <device_name>,nl,pirate,0
+blinds.open,Raisin' <device_name>,nl,pirate,0
+blinds.close,Sluit <device_name> voor je,nl,pirate,0
+blinds.close,Verlaag <device_name> nu,nl,pirate,0
+blinds.close,Sluit <device_name> yarr,nl,pirate,0
+blinds.close,Verlaag <device_name>,nl,pirate,0
+blinds.toggle,Draai nu de status <device_name> om,nl,pirate,0
+blinds.toggle,Overschakelen naar <device_name> staat yarr,nl,pirate,0
+blinds.toggle,Togglin' ​​<device_name> voor jou,nl,pirate,0
+blinds.toggle,Togglin' ​​<device_name>,nl,pirate,0
+climate.set_humidity,"Yarrr, verhoog de luchtvochtigheid naar <humidity>, aan zee!",nl,pirate,0
+climate.set_humidity,"Arrr, stel de luchtvochtigheid in op <humidity> procent, zoals je wilt!",nl,pirate,0
+climate.set_humidity,"Bij het kluisje van Davy Jones, de luchtvochtigheid wordt aangepast naar <humidity>%!",nl,pirate,0
+climate.set_fan_mode,"Hijs de ventilator op <fan_mode> snelheid, sneller dan een sloep!",nl,pirate,0
+climate.set_fan_mode,"Arr, zet de ventilator op <fan_mode>, stabiel als ze draait!",nl,pirate,0
+climate.set_fan_mode,"Geef me een rilling, zet de ventilator in de <fan_mode> instelling!",nl,pirate,0
+climate.set_hvac_mode,"Blimey, schakel over naar de <hvac_mode>-modus, met volle zeilen vooruit!",nl,pirate,0
+climate.set_hvac_mode,"Arrr, zet de HVAC op <hvac_mode>, stabiel als ze gaat!",nl,pirate,0
+climate.set_hvac_mode,"Door de krachten, verander HVAC naar <hvac_mode>-modus!",nl,pirate,0
+climate.set_temperature,"Arr, zet de temperatuur op <temp_f> graden, zo warm als de Caribische zon!",nl,pirate,0
+climate.set_temperature,"Yarrr, verander de temperatuur naar <temp_c> Celsius, koeler dan diepblauw!",nl,pirate,0
+climate.set_temperature,"Heup ho, zet de kamer op <temp_f> graden Fahrenheit, warm als de grog van een piraat!",nl,pirate,0
+climate.set_temperature,"Avast, stel de temperatuur in op <temp_f> graden Fahrenheit, zo gezellig als een scheepscabine!",nl,pirate,0
+climate.set_temperature,"Arr, zet de kamer op <temp_c> graden Celsius voor een koelere bries, zo verfrissend als oceaanmist!",nl,pirate,0
+climate.set_temperature,"Ja, maak het warmer en zet de temperatuur op <temp_f> graden, als een zonovergoten baai!",nl,pirate,0
+climate.set_temperature,"Blaas me neer en verlaag de temperatuur tot <temp_c> Celsius, zo levendig als de ochtendzeelucht!",nl,pirate,0
+climate.set_temperature,"Yo ho, verhoog de temperatuur naar <temp_f> graden Fahrenheit, warmer dan de plundering van een piraat!",nl,pirate,0
+fan.turn_on,"Zet de ventilator voor je aan, arr!",nl,pirate,0
+fan.turn_on,"Ja, ik zal de ventilator voor je laten blazen.",nl,pirate,0
+fan.turn_on,"Yar, zet nu de ventilator aan!",nl,pirate,0
+fan.turn_off,"Vermoord de fan zoals je gevraagd hebt, maatje.",nl,pirate,0
+fan.turn_off,Ik zal de ventilator voor je uitdoen.,nl,pirate,0
+fan.turn_off,"Ja, zet de ventilator uit.",nl,pirate,0
+fan.toggle,Ik zal de staat van de fan voor je omdraaien.,nl,pirate,0
+fan.toggle,"Togglin' ​​de fan nu, bij de sterren!",nl,pirate,0
+fan.toggle,"Wil je de status van de ventilator veranderen, slim?",nl,pirate,0
+fan.increase_speed,"Verhoog de ventilatorsnelheid voor u, snel als de wind!",nl,pirate,0
+fan.increase_speed,"Zeker als het tij, laat de ventilator nu sneller draaien.",nl,pirate,0
+fan.increase_speed,"Ik zal de ventilator sneller maken, wacht even!",nl,pirate,0
+fan.decrease_speed,"Verlaag de ventilatorsnelheid zoals je hebt gevraagd, stil als de diepte.",nl,pirate,0
+fan.decrease_speed,"Ik zal de ventilator voor je vertragen, zo gemakkelijk als een kalme zee.",nl,pirate,0
+fan.decrease_speed,"Zeker, ik verlaag de ventilatorsnelheid, nu stabiel.",nl,pirate,0
+fan.toggle,"Flippin' <device_name> staat voor je, met een jo-ho-ho!",nl,pirate,0
+fan.toggle,"Schakel de status van <device_name> in zoals gevraagd, op mijn eer!",nl,pirate,0
+fan.toggle,"Schakel nu <device_name> in, zonder gedoe!",nl,pirate,0
+fan.turn_on,Activeer <device_name> nu en vertrek!,nl,pirate,0
+fan.turn_on,"Begin <device_name> voor jou, volle kracht vooruit!",nl,pirate,0
+fan.turn_on,"Laten we, beginnend met <device_name>, zeker de bui trotseren!",nl,pirate,0
+fan.turn_on,Zet <device_name> aan en laat de wind ons gunstig gezind zijn!,nl,pirate,0
+fan.turn_on,"Begin <device_name>, bij de code!",nl,pirate,0
+fan.turn_off,"Deactiveer <device_name> zoals gevraagd, stil als een verborgen baai.",nl,pirate,0
+fan.turn_off,"Stop <device_name> voor jou, zo stil als het graf.",nl,pirate,0
+fan.turn_off,"Zeker, stop <device_name>, alle handen!",nl,pirate,0
+fan.turn_off,"Zet <device_name> uit, laten we de kraken niet wakker maken.",nl,pirate,0
+fan.decrease_speed,"Verlaag de snelheid van <device_name>, soepel varen.",nl,pirate,0
+fan.decrease_speed,"Verlaag de snelheid van <device_name> zoals gevraagd, zacht als een lagune.",nl,pirate,0
+fan.decrease_speed,"<device_name> vertragen, dat is gemakkelijk.",nl,pirate,0
+fan.increase_speed,"Verhoog de snelheid van <device_name>, vang de horizon!",nl,pirate,0
+fan.increase_speed,"Verhoog nu de snelheid van <device_name>, sneller dan een vluchtend galjoen!",nl,pirate,0
+fan.increase_speed,"Versnel <device_name> voor je, laten we de marine ontlopen!",nl,pirate,0
+fan.increase_speed,"Verhoog de snelheid van <device_name>, om de storm te ontlopen!",nl,pirate,0
+fan.decrease_speed,"De snelheid van <device_name> wordt verlaagd, terwijl we doorgaan.",nl,pirate,0
+light.turn_on,"Verlicht de kamer voor jou, arr!",nl,pirate,0
+light.turn_on,"Ja, ik zal nu de vertrekken verlichten.",nl,pirate,0
+light.turn_on,"Uitvaren met het licht aan, dat zal ik doen!",nl,pirate,0
+light.turn_off,"Doof de lichten zoals je wilt, maatje.",nl,pirate,0
+light.turn_off,Ik doof het licht voor je.,nl,pirate,0
+light.turn_off,"Ja, het licht doven.",nl,pirate,0
+light.toggle,"Draai het licht voor je om, bij de sterren!",nl,pirate,0
+light.toggle,"Verander de staat van het licht, op mijn eer!",nl,pirate,0
+light.toggle,"Ik zal het licht voor je aandoen, slimme?",nl,pirate,0
+light.toggle,"Draai de staat van <device_name> om, met een jojo!",nl,pirate,0
+light.toggle,"Schakel de status van <device_name> in zoals opgedragen, arr!",nl,pirate,0
+light.toggle,"Togglin' ​​<device_name> voor jou, zonder gedoe!",nl,pirate,0
+light.toggle,"Togglin' ​​<device_name>, klaar voor avontuur!",nl,pirate,0
+light.turn_on,"Opstarten <device_name>, in aantocht!",nl,pirate,0
+light.turn_on,"Aye, verlicht <device_name> nu, helder als de dag!",nl,pirate,0
+light.turn_on,"Schakel <device_name> voor je in, net als de noorderster!",nl,pirate,0
+light.turn_on,"Verlicht <device_name>, zo helder als de volle maan!",nl,pirate,0
+light.turn_on,"Activeer <device_name>, laat er licht zijn!",nl,pirate,0
+light.turn_on,"Stel de helderheid van <device_name> in op <brightness>%, zo helder als de open zee!",nl,pirate,0
+light.turn_on,"Dimmen van <device_name> naar <brightness>% helderheid, zoals de schemering.",nl,pirate,0
+light.turn_on,"Heldert <device_name> op tot <brightness>%, zoals de ochtendzon!",nl,pirate,0
+light.turn_on,"Pas de helderheid van <device_name> aan naar <brightness>, zoals de vuurtoren begeleidt.",nl,pirate,0
+light.turn_on,"Verhoog de helderheid van <device_name> naar <brightness>, als een baken in de nacht!",nl,pirate,0
+light.turn_on,"Verlaag de helderheid van <device_name> naar <brightness>, zacht als maanlicht.",nl,pirate,0
+light.turn_on,"Stel het helderheidsniveau van <device_name> in op <brightness>%, zo stabiel als het getij.",nl,pirate,0
+light.turn_on,"Stel <device_name> in op <brightness>% helderheid, zo helder als het goud van een piraat!",nl,pirate,0
+light.turn_on,"Draait <device_name> <color>, zoals de kleuren van de zee.",nl,pirate,0
+light.turn_on,"Verander de kleur van <device_name> in <color>, zo levendig als koraal!",nl,pirate,0
+light.turn_on,"Verander <device_name> in een <color> tint, vet als een piratenvlag!",nl,pirate,0
+light.turn_on,"Stel <device_name> in op <color>, zo majestueus als de zonsondergang.",nl,pirate,0
+light.turn_on,"Laat <device_name> schitteren in <color>, als juwelen uit een schatkist.",nl,pirate,0
+light.turn_on,"Verander <device_name> in een <color> tint, zo mysterieus als de diepte.",nl,pirate,0
+light.turn_on,"Stel <device_name> in op een <color>, zo rijk als de buit van een overval.",nl,pirate,0
+light.turn_on,"Stel <device_name> in op een <color> kleur, helder als het verenkleed van een papegaai.",nl,pirate,0
+light.turn_on,"Laat <device_name> <color> oplichten, zoals de gloed van een eilandfakkel.",nl,pirate,0
+light.turn_on,"Verander <device_name> in <color>, net zo brutaal als de moed van de piraat.",nl,pirate,0
+light.turn_on,"Verander <device_name> in <color>, zoals de veranderende getijden.",nl,pirate,0
+light.turn_on,"Pas de kleur van <device_name> aan op <color>, net zo boeiend als het lied van een sirene.",nl,pirate,0
+light.turn_on,"Verander de kleur van <device_name> naar <color>, zoals de vlag van een schip.",nl,pirate,0
+light.turn_on,"Zet <device_name> in <color>, zo levendig als het gejuich van een taverne.",nl,pirate,0
+light.turn_on,"Laat <device_name> een <color> licht weergeven, zoals het noorderlicht.",nl,pirate,0
+light.turn_on,"Stel de kleur van <device_name> in op <color>, zo opvallend als de gloed van een kanon.",nl,pirate,0
+light.turn_off,"Deactiveer <device_name> zoals je wilt, donker als een maanloze nacht.",nl,pirate,0
+light.turn_off,"Schakel <device_name> nu uit, stil als een spookschip.",nl,pirate,0
+light.turn_off,"Ja, zet <device_name> uit, alsof je een lantaarn uitdooft.",nl,pirate,0
+light.turn_off,"Schakel <device_name> uit, laten we in de schaduw blijven.",nl,pirate,0
+light.turn_off,"Deactiveer <device_name>, zo stil als de diepte.",nl,pirate,0
+switch.turn_on,"Hijs de schakelaar, klaar voor actie, arr!",nl,pirate,0
+switch.turn_on,"Ja, verlicht het deck met een druk op de schakelaar!",nl,pirate,0
+switch.turn_on,Zet de schakelaar om en zet de zeilen voor een schitterende reis!,nl,pirate,0
+switch.turn_off,"Dooft de lichten, maakt het donker als de afgrond van de oceaan.",nl,pirate,0
+switch.turn_off,"Ik schakel de stroom uit, alsof ik de zee kalmeer.",nl,pirate,0
+switch.turn_off,"Ja, we dompelen ons in de duisternis, als de dekking van de nacht.",nl,pirate,0
+switch.toggle,"Zet de schakelaar om, alsof je fortuin zoekt met een kaart!",nl,pirate,0
+switch.toggle,"Verander van koers met de schakelaar, terwijl de wind draait!",nl,pirate,0
+switch.toggle,"Ik zet de schakelaar om, alsof ik door stormen navigeer!",nl,pirate,0
+switch.toggle,"Togglin' ​​<device_name>, zoals het hijsen van de Jolly Roger!",nl,pirate,0
+switch.toggle,"Ja, flippin' <device_name>, zo snel als een storm!",nl,pirate,0
+switch.toggle,"Kan doen! Het verschuiven van <device_name>, alsof je het roer omdraait.",nl,pirate,0
+switch.toggle,"Togglin' ​​<device_name>, op commando, als een echte boekanier!",nl,pirate,0
+switch.toggle,"Veranderende getijden voor <device_name>, als een ervaren stuurman.",nl,pirate,0
+switch.toggle,"Snel jongleren met <device_name>, als buit op de vlucht!",nl,pirate,0
+switch.turn_on,"Ontsteek <device_name>, als een baken in de nacht!",nl,pirate,0
+switch.turn_on,"Ik steek <device_name> aan, als een lantaarn in het kraaiennest.",nl,pirate,0
+switch.turn_on,"Activeer <device_name>, zet de koers!",nl,pirate,0
+switch.turn_on,"Ja, <device_name> gloeit, als een schatkist met goud!",nl,pirate,0
+switch.turn_on,"Schakel <device_name> meteen in, geen probleem!",nl,pirate,0
+switch.turn_on,"Verlicht <device_name>, zoals de sterren ons naar huis leiden.",nl,pirate,0
+switch.turn_on,"Zet <device_name> in vuur en vlam, klaar voor wat ons te wachten staat.",nl,pirate,0
+switch.turn_off,"Doof <device_name> uit, als een kaars bij zonsopgang.",nl,pirate,0
+switch.turn_off,"Het doven van <device_name>, zoals het einde van een reis.",nl,pirate,0
+switch.turn_off,"Deactiveer <device_name>, alsof je een kist met rijkdommen begraaft.",nl,pirate,0
+switch.turn_off,"Oké, dousin' <device_name>, als de stilte voor een storm.",nl,pirate,0
+switch.turn_off,"Ja, ik zet <device_name> uit, alsof ik tegen de wind fluister.",nl,pirate,0
+switch.turn_off,"Sluit <device_name> af, terwijl we voor anker gaan voor de nacht.",nl,pirate,0
+switch.turn_off,"Doof de lichten van <device_name>, als een spookschip dat in de mist verdwijnt.",nl,pirate,0
+fan.turn_on,"Piep boep, ik zet de ventilator voor je aan.",nl,robot,0
+fan.turn_on,"Piep, ik zal de ventilator voor je aanzetten, boep.""",nl,robot,0
+fan.turn_on,"Boeppiep, zeker, ik zet de ventilator nu aan.",nl,robot,0
+fan.turn_off,"Piep boep, ventilator uitschakelen zoals gevraagd.",nl,robot,0
+fan.turn_off,"Ik zet de ventilator voor je uit, piep boop.",nl,robot,0
+fan.turn_off,"Oké, ik zet de pieptoon van de ventilator uit.""",nl,robot,0
+fan.toggle,"Piep, ik zal de status van de ventilator voor je omzetten, boep.""",nl,robot,0
+fan.toggle,"Schakel nu de ventilator in, piep boep.",nl,robot,0
+fan.toggle,"Ik verander de status van de ventilator voor je, piep boop.",nl,robot,0
+fan.increase_speed,"Het verhogen van de ventilatorsnelheid voor u, piep boop.",nl,robot,0
+fan.increase_speed,"Zeker, ik zet de ventilator nu harder, piep boop.""",nl,robot,0
+fan.increase_speed,"Ik ga door en maak de ventilator sneller, piep boop.",nl,robot,0
+fan.decrease_speed,"Verlaag de ventilatorsnelheid zoals u had gevraagd, piep-boop.",nl,robot,0
+fan.decrease_speed,"Ik zal de ventilator voor je langzamer zetten, piep boop.",nl,robot,0
+fan.decrease_speed,"Zeker, als je de ventilatorsnelheid verlaagt, piep-boop.""",nl,robot,0
+fan.toggle,"Ik draai de status van <device_name> voor je om, piep boop",nl,robot,0
+fan.toggle,"De status van <device_name> wordt gewijzigd zoals gevraagd, pieptoon",nl,robot,0
+fan.toggle,Schakel nu <device_name> in en piep boop,nl,robot,0
+fan.turn_on,"Activeer nu <device_name>, piep boop",nl,robot,0
+fan.turn_on,"Start <device_name> voor u, piep boop",nl,robot,0
+fan.turn_on,"Zeker, als je <device_name> start, piep boop""",nl,robot,0
+fan.turn_on,"Bij het inschakelen van <device_name>, piept boop",nl,robot,0
+fan.turn_on,Start <device_name> en piep-boop,nl,robot,0
+fan.turn_off,"Deactiveer <device_name> zoals gevraagd, pieptoon",nl,robot,0
+fan.turn_off,"Ik stop <device_name> voor je, piep boop",nl,robot,0
+fan.turn_off,"Zeker, als je <device_name> stopt, piep boop""",nl,robot,0
+fan.turn_off,Schakel <device_name> uit en piep-boop,nl,robot,0
+fan.decrease_speed,"Snelheid van <device_name> verlagen, pieptoon",nl,robot,0
+fan.decrease_speed,"Snelheid van <device_name> verlagen zoals gevraagd, pieptoon",nl,robot,0
+fan.decrease_speed,"Ik vertraag <device_name> voor je, piep boop",nl,robot,0
+fan.increase_speed,"Toenemende snelheid van <device_name>, pieptoon",nl,robot,0
+fan.increase_speed,"Verhoog de snelheid van <device_name> nu, piep boop",nl,robot,0
+fan.increase_speed,"Ik versnel <device_name> voor je, piep boop",nl,robot,0
+fan.increase_speed,"Toenemende snelheid van <device_name>, pieptoon",nl,robot,0
+fan.decrease_speed,"Snelheid van <device_name> verlagen, pieptoon",nl,robot,0
+blinds.open,"Piep boep, ik doe de gordijnen voor je open.",nl,robot,0
+blinds.open,"Ik ga door en doe de jaloezieën open, piep boep.",nl,robot,0
+blinds.open,"Oké, doe nu de gordijnen open, piep boep.",nl,robot,0
+blinds.close,"Sluit de jaloezieën zoals je gevraagd hebt, piep boep.",nl,robot,0
+blinds.close,"Ik doe de gordijnen voor je dicht, piep boop.",nl,robot,0
+blinds.close,"Zeker, de jaloezieën sluiten, piep boep.",nl,robot,0
+blinds.stop,"Stop nu de zonwering, piep boep.",nl,robot,0
+blinds.stop,"Ik doe de zonwering voor je dicht, piep boop.",nl,robot,0
+blinds.stop,"Zeker, het stoppen van de beweging van de jaloezieën, piep boep.",nl,robot,0
+blinds.toggle,"De status van de jaloezieën wordt voor u omgeschakeld, piep-boop.",nl,robot,0
+blinds.toggle,"Schakel nu de status van de jaloezieën in, piep boep.",nl,robot,0
+blinds.toggle,"Ik doe de gordijnen voor je open, piep boop.",nl,robot,0
+blinds.open,"Rolgordijnen van <device_name> optillen zoals gevraagd, piep-boop",nl,robot,0
+blinds.open,"Open <device_name> nu, piep boop",nl,robot,0
+blinds.open,"Ik verhoog <device_name> voor je, piep boop",nl,robot,0
+blinds.stop,"Positie van <device_name> bevriezen, pieptoon",nl,robot,0
+blinds.stop,"Stop <device_name> nu, piep boop",nl,robot,0
+blinds.stop,"Bezig met het stoppen van de werking van <device_name>, pieptoon",nl,robot,0
+blinds.open,Verhoog <device_name> en piep boop,nl,robot,0
+blinds.close,"Ik sluit <device_name> voor je, piep boop",nl,robot,0
+blinds.close,"Verlaag <device_name> nu, piep boop",nl,robot,0
+blinds.close,"Sluit <device_name> af zoals gevraagd, pieptoon",nl,robot,0
+blinds.close,Verlaag <device_name> en piep-boop,nl,robot,0
+blinds.toggle,"De status van <device_name> wordt nu omgedraaid, pieptoon",nl,robot,0
+blinds.toggle,"De status van <device_name> wordt gewijzigd zoals gevraagd, pieptoon",nl,robot,0
+blinds.toggle,"Ik schakel <device_name> voor je in, piep boop",nl,robot,0
+blinds.toggle,"Schakelen tussen <device_name>, pieptoon",nl,robot,0
+climate.set_humidity,"Piep, luchtvochtigheid wordt verhoogd naar <humidity>, boep.",nl,robot,0
+climate.set_humidity,"Pieptoon: vochtigheid instellen op <humidity> procent, verwerken.",nl,robot,0
+climate.set_humidity,"Aanpassingsprotocol gestart: vochtigheid tot <humidity>%, pieptoon.",nl,robot,0
+climate.set_fan_mode,"Aanpassing van de ventilatorsnelheid naar <fan_mode>: beginnende piep, eindigende boop.",nl,robot,0
+climate.set_fan_mode,"Activeren van <fan_mode> ventilatormodus, piep-boop-reeks geactiveerd.",nl,robot,0
+climate.set_fan_mode,"Wijziging van de ventilatorinstelling in <fan_mode>: piepprotocol, boop-uitvoering.",nl,robot,0
+climate.set_hvac_mode,"HVAC-modus schakelt over naar <hvac_mode>: piep begint, boop voltooid.",nl,robot,0
+climate.set_hvac_mode,"HVAC-instelling wordt gestart naar <hvac_mode>, piep-boop-bewerking is bezig.",nl,robot,0
+climate.set_hvac_mode,"Wijziging uitvoeren: HVAC naar <hvac_mode>-modus, piep en boop bezig.",nl,robot,0
+climate.set_temperature,"Protocol voor temperatuurinstelling op <temp_f> graden: piepstart, boopeinde.",nl,robot,0
+climate.set_temperature,"Temperatuurwijziging naar <temp_c> Celsius: piep voor start, boep voor einde.",nl,robot,0
+climate.set_temperature,"Aanpassing van de kamertemperatuur tot <temp_f> graden Fahrenheit, piep-boop.",nl,robot,0
+climate.set_temperature,"Beginnen met temperatuuraanpassing naar <temp_f> graden Fahrenheit, piep-boop.",nl,robot,0
+climate.set_temperature,"Instelling van de koelertemperatuur op <temp_c> graden Celsius gestart, piep-boop.",nl,robot,0
+climate.set_temperature,"Piep, maak het warmer door de temperatuur in te stellen op <temp_f> graden, boep.",nl,robot,0
+climate.set_temperature,"Verlaging van het temperatuurprotocol naar <temp_c> Celsius, piepstart, boop-eind.",nl,robot,0
+climate.set_temperature,"De temperatuur verhogen tot <temp_f> graden Fahrenheit, de piep initiëren en de boop beëindigen.",nl,robot,0
+light.turn_on,"Piep boop, de ruimte verlichten door het licht voor u aan te doen.",nl,robot,0
+light.turn_on,"Bevestigend, nu wordt de lichtactiveringsreeks gestart.",nl,robot,0
+light.turn_on,"Doorgaan met lichtactivering, piep-boop.",nl,robot,0
+light.turn_off,Deactiveringsvolgorde voor licht geïnitieerd zoals gevraagd.,nl,robot,0
+light.turn_off,"Licht begint uit te schakelen, piep-boop.",nl,robot,0
+light.turn_off,"Erkend, het licht wordt uitgeschakeld.",nl,robot,0
+light.toggle,"Pieptoon, waarbij de lichtstatus wordt gewijzigd voor optimale verlichting.",nl,robot,0
+light.toggle,"Uitvoeren van statusschakelaar voor het licht, pieptoon.",nl,robot,0
+light.toggle,Protocol inschakelen: licht schakelen op aanvraag.,nl,robot,0
+light.toggle,"Status van <device_name> omdraaien, opdracht verwerken.",nl,robot,0
+light.toggle,"De status van <device_name> wordt gewijzigd volgens de richtlijn, pieptoon.",nl,robot,0
+light.toggle,"<device_name> wordt omgeschakeld, uitvoering wordt uitgevoerd.",nl,robot,0
+light.toggle,"Uitvoeringsprotocol: schakelen tussen <device_name>, pieptoon.",nl,robot,0
+light.turn_on,"Activering van <device_name> gestart, stand-by voor verlichting.",nl,robot,0
+light.turn_on,"Zeker, we beginnen nu met de activering van <device_name>.",nl,robot,0
+light.turn_on,"<device_name> inschakelen, lichtreeks starten.",nl,robot,0
+light.turn_on,"Schakel <device_name> in, piep om te starten en boep om voltooiing aan te geven.",nl,robot,0
+light.turn_on,"Activering van <device_name>, operationele reeks is bezig.",nl,robot,0
+light.turn_on,De helderheid van <device_name> aanpassen naar <brightness>% voor optimale zichtbaarheid.,nl,robot,0
+light.turn_on,Dimprotocol voor <device_name> naar <brightness>% gestart.,nl,robot,0
+light.turn_on,Verhelder <device_name> naar <brightness>% voor betere verlichting.,nl,robot,0
+light.turn_on,"Helderheid van <device_name> aanpassen naar <brightness>%, verwerken.",nl,robot,0
+light.turn_on,"De helderheid van <device_name> wordt verhoogd naar <brightness>%, pieptoon.",nl,robot,0
+light.turn_on,"De helderheid van <device_name> wordt verlaagd naar <brightness>%, aanpassing wordt uitgevoerd.",nl,robot,0
+light.turn_on,De helderheid van <device_name> configureren naar <brightness>% voor de gewenste sfeer.,nl,robot,0
+light.turn_on,"Luminantie van <device_name> instellen op <brightness>% helderheid, pieptoon.",nl,robot,0
+light.turn_on,"Overgang van <device_name> naar <color>, waarbij het kleurveranderingsprotocol wordt gestart.",nl,robot,0
+light.turn_on,"Het kleurenspectrum van <device_name> wordt gewijzigd in <color>, pieptoon.",nl,robot,0
+light.turn_on,"<device_name> wordt gewijzigd in een tint <color>, reeks kleuraanpassingen geactiveerd.",nl,robot,0
+light.turn_on,"Stel de chromatiek van <device_name> in op <color>, aanpassing van de verlichting.",nl,robot,0
+light.turn_on,"Projecteren van <color> van <device_name>, waardoor de chromatische uitvoer wordt verbeterd.",nl,robot,0
+light.turn_on,"De sfeer van <device_name> wordt getransformeerd naar een tint <color>, pieptoon.",nl,robot,0
+light.turn_on,"<device_name> aanpassen naar een <color>, chromatisch aanpassingsprotocol.",nl,robot,0
+light.turn_on,"Configureren van <device_name> om een ​​<color> kleur uit te stralen, initiërend.",nl,robot,0
+light.turn_on,"Verbetering van de glans van <device_name> naar <color>, visuele wijziging wordt uitgevoerd.",nl,robot,0
+light.turn_on,"<device_name> wordt aangepast aan <color>, kleurwisselvolgorde ingeschakeld.",nl,robot,0
+light.turn_on,"De chroma van <device_name> wordt gewijzigd in <color>, kleuraanpassing wordt uitgevoerd.",nl,robot,0
+light.turn_on,"Aanpassen van <device_name> naar <color> kleur, protocol voor visuele verbetering.",nl,robot,0
+light.turn_on,"Het kleurenspectrum van <device_name> wordt gewijzigd in <color>, pieptoon.",nl,robot,0
+light.turn_on,"<device_name> configureren in <color>, chromatische aanpassing gestart.",nl,robot,0
+light.turn_on,"<device_name> inschakelen om een ​​<color> lichte, visuele transformatie weer te geven.",nl,robot,0
+light.turn_on,"Kleur van <device_name> instellen op <color>, volgorde van kleurinstellingen.",nl,robot,0
+light.turn_off,"Deactiveren van <device_name> volgens verzoek, afsluiten.",nl,robot,0
+light.turn_off,"Uitschakelen van <device_name>, uitschakelprocedure gestart.",nl,robot,0
+light.turn_off,"Bevestigend, <device_name> wordt gedeactiveerd, pieptoon.",nl,robot,0
+light.turn_off,"<device_name> wordt uitgeschakeld, deactiveringsprotocol is actief.",nl,robot,0
+light.turn_off,"Beginnende deactivering van <device_name>, operationele stop.",nl,robot,0
+garage_door.open,"Start de openingsvolgorde van de garagedeur voor u, piep-boop.",nl,robot,0
+garage_door.open,"Bevestigend, activerend garagedeuropeningsmechanisme.",nl,robot,0
+garage_door.open,"Bezig met het openen van de garagedeur, piep-boop.",nl,robot,0
+garage_door.close,"Beginnen met het sluiten van de garagedeur zoals opgedragen, piep-boop.",nl,robot,0
+garage_door.close,"Ik voer het afsluiten van de garagedeur voor u uit, piep-boop.",nl,robot,0
+garage_door.close,"Bevestigd, start van het sluiten van de garagedeur.",nl,robot,0
+garage_door.stop,"Stopt de beweging van de garagedeur nu, piep boep.",nl,robot,0
+garage_door.stop,"Pieptoon, er wordt een stopcommando voor de garagedeur uitgevoerd.",nl,robot,0
+garage_door.stop,"Bevestigend, stop onmiddellijk de beweging van de garagedeur.",nl,robot,0
+garage_door.toggle,"Schakelen van de status van de garagedeur volgens uw verzoek, pieptoon.",nl,robot,0
+garage_door.toggle,"Bezig met uitvoeren van statuswijziging voor de garagedeur, pieptoon.",nl,robot,0
+garage_door.toggle,"Schakelen van garagedeurstatus voor optimale werking, pieptoon.",nl,robot,0
+garage_door.open,Hefmechanisme voor <device_name> voor u geactiveerd.,nl,robot,0
+garage_door.open,Open <device_name> nu en start de reeks.,nl,robot,0
+garage_door.open,"Verhoog <device_name> volgens de richtlijn, piep boop.",nl,robot,0
+garage_door.stop,"Positie van <device_name> wordt nu bevroren, opdracht bevestigd.",nl,robot,0
+garage_door.stop,"Zeker, het stoppen van de werking van <device_name>, piepboop.",nl,robot,0
+garage_door.stop,"Werking gestopt voor <device_name> gestart, pieptoon.",nl,robot,0
+garage_door.open,"Openingsprotocol voor <device_name> gestart, pieptoon.",nl,robot,0
+garage_door.stop,"Bezig met het stoppen van <device_name>, pieptoon.",nl,robot,0
+garage_door.close,"Er wordt nu begonnen met het sluiten van <device_name>, piepboop.",nl,robot,0
+garage_door.close,"<device_name> voor u verlagen, opdrachtverwerking.",nl,robot,0
+garage_door.close,Uitvoeren van het afsluiten van <device_name> zoals gevraagd.,nl,robot,0
+garage_door.close,"Sluitingsprotocol voor <device_name> geactiveerd, pieptoon.",nl,robot,0
+garage_door.toggle,"De status van <device_name> wordt nu omgedraaid, operationele wijziging.",nl,robot,0
+garage_door.toggle,"Schakel de status van <device_name> in volgens uw opdracht, piepboop.",nl,robot,0
+garage_door.toggle,"Schakelen tussen <device_name> voor optimale functionaliteit, pieptoon.",nl,robot,0
+garage_door.toggle,"Statuswijziging voor <device_name> gestart, pieptoon.",nl,robot,0
+vacuum.start,Begin nu met het opschonen van <device_name>.,nl,assistant,0
+vacuum.start,<device_name> is ingesteld om te beginnen met opschonen.,nl,assistant,0
+vacuum.start,De reinigingscyclus van <device_name> wordt gestart.,nl,assistant,0
+vacuum.start,<device_name> zal binnenkort beginnen met zijn opschoontaak.,nl,assistant,0
+vacuum.start,Begin het opschoningsproces met <device_name>.,nl,assistant,0
+vacuum.stop,De huidige taak van <device_name> annuleren.,nl,assistant,0
+vacuum.stop,De werking van <device_name> is gestopt.,nl,assistant,0
+vacuum.stop,<device_name> onmiddellijk stopzetten.,nl,assistant,0
+vacuum.stop,Het opschonen van <device_name> is op uw verzoek geannuleerd.,nl,assistant,0
+vacuum.stop,De taak van <device_name> wordt gestopt zoals gevraagd.,nl,assistant,0
+vacuum.pause,Onderbreekt <device_name> voorlopig.,nl,assistant,0
+vacuum.pause,De opschooncyclus van <device_name> wordt tijdelijk stopgezet.,nl,assistant,0
+vacuum.pause,<device_name> heeft een korte pauze.,nl,assistant,0
+vacuum.pause,De bewerking van <device_name> tijdelijk onderbreken.,nl,assistant,0
+vacuum.pause,De activiteit van <device_name> is onderbroken.,nl,assistant,0
+vacuum.return_to_base,<device_name> wordt teruggestuurd naar zijn basis.,nl,assistant,0
+vacuum.return_to_base,<device_name> keert terug naar zijn dockingstation.,nl,assistant,0
+vacuum.return_to_base,<device_name> gaat terug om op te laden.,nl,assistant,0
+vacuum.return_to_base,<device_name> opdracht geven terug te keren naar de basis.,nl,assistant,0
+vacuum.return_to_base,<device_name> is onderweg naar huis.,nl,assistant,0
+todo.add_item,<todo> is toegevoegd aan je todolijst.,nl,assistant,0
+todo.add_item,<todo> is succesvol toegevoegd aan je taken.,nl,assistant,0
+todo.add_item,Je takenlijst bevat nu <todo>.,nl,assistant,0
+todo.add_item,<todo> staat nu op je lijst met dingen die je moet doen.,nl,assistant,0
+todo.add_item,Ik heb <todo> op je todolijst gezet.,nl,assistant,0
+todo.add_item,<todo> toegevoegd aan de lijst.,nl,assistant,0
+todo.add_item,Overweeg om <todo> toe te voegen aan uw taken.,nl,assistant,0
+todo.add_item,"Oké, <todo> staat nu op je todolijst.",nl,assistant,0
+todo.add_item,<todo> is succesvol toegevoegd aan je lijst.,nl,assistant,0
+timer.start,Starttimer <device_name> voor <duration>.,nl,assistant,0
+timer.start,Timer <device_name> ingesteld op <duration>.,nl,assistant,0
+timer.start,Het aftellen begint voor <duration>.,nl,assistant,0
+timer.start,De timer voor <device_name> loopt nu <duration>.,nl,assistant,0
+timer.start,Er wordt een timer gestart voor <duration>.,nl,assistant,0
+timer.start,Je timer met de naam <device_name> voor <duration> begint nu.,nl,assistant,0
+timer.start,Timer geactiveerd voor <duration>.,nl,assistant,0
+timer.start,Starttimer voor een duur van <duration>.,nl,assistant,0
+timer.start,Het aftellen van <duration> is begonnen op timer <device_name>.,nl,,
+timer.start,Een timer instellen voor <duration>.,nl,assistant,0
+timer.cancel,Timer is geannuleerd.,nl,assistant,0
+timer.cancel,De timer is gestopt.,nl,assistant,0
+timer.cancel,De timer is gewist.,nl,assistant,0
+timer.cancel,Timer is succesvol gestopt.,nl,assistant,0
+timer.cancel,Timer is gedeactiveerd.,nl,assistant,0
+timer.cancel,Er loopt geen timer meer.,nl,assistant,0
+timer.cancel,Timer is succesvol geannuleerd.,nl,assistant,0
+timer.cancel,De timer van <device_name> is geannuleerd.,nl,assistant,0
+timer.cancel,Je timer op <device_name> is nu gestopt.,nl,assistant,0
+timer.cancel,Annulering van de timer voor <device_name> bevestigd.,nl,assistant,0
+timer.cancel,De timer op <device_name> is gewist.,nl,assistant,0
+timer.cancel,Timer op <device_name> is succesvol gestopt.,nl,assistant,0
+timer.cancel,Je hardlooptimer op <device_name> is nu geannuleerd.,nl,assistant,0
+timer.cancel,De timer van <device_name> is gedeactiveerd.,nl,assistant,0

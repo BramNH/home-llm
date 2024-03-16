@@ -1,0 +1,265 @@
+device_type,service,dutch_phrase,multiplier
+blinds,close,Sluit de <device_name>,1
+blinds,close,Verlaag de <device_name>,1
+blinds,close,Sluit de <device_name>,1
+blinds,open,Til de jaloezieën van <device_name> omhoog,1
+blinds,open,Open de <device_name>,1
+blinds,open,Verhoog de <device_name>,1
+blinds,stop,Bevries de <device_name>,1
+blinds,stop,Stop de <device_name>,1
+blinds,stop,Stop de <device_name>,1
+blinds,toggle,Draai de status <device_name> om,1
+blinds,toggle,Wijzig de status <device_name>,1
+blinds,toggle,Schakel <device_name> in of uit,1
+blinds|fan,close|turn_off,Sluit <device_name1> en deactiveer <device_name2>,1
+blinds|fan,open|increase_speed,Verhoog de <device_name1> en versnel de <device_name2>,1
+blinds|light,open|turn_on,Verhoog <device_name1> en activeer <device_name2>,1
+fan,decrease_speed,Verlaag de snelheid van <device_name>,1
+fan,decrease_speed,Verlaag de snelheid van <device_name>,1
+fan,decrease_speed,Vertraag de <device_name>,1
+fan,increase_speed,Verhoog de snelheid van <device_name>,1
+fan,increase_speed,Verhoog de snelheid van <device_name>,1
+fan,increase_speed,Versnel de <device_name>,1
+fan,toggle,Schakel de <device_name> in of uit,1
+fan,toggle,Wijzig de status <device_name>,1
+fan,toggle,Schakel <device_name> in of uit,1
+fan,turn_off,Deactiveer de <device_name>,1
+fan,turn_off,Stop de <device_name> alstublieft,1
+fan,turn_off,Schakel <device_name> uit,1
+fan,turn_on,Activeer de <device_name>,1
+fan,turn_on,Start de <device_name>,1
+fan,turn_on,Schakel de <device_name> in,1
+fan|blinds,turn_off|open,Schakel <device_name1> uit en open <device_name2>,1
+fan|blinds|garage_door,increase_speed|open|open,Versnel <device_name1> open <device_name2> en <device_name3>,1
+fan|blinds|light,decrease_speed|open|turn_off,Vertraag <device_name1> open <device_name2> en schakel <device_name3> uit,1
+fan|blinds|light,turn_off|close|turn_on,"Schakel <device_name1> uit, sluit <device_name2> en schakel <device_name3> in",1
+fan|fan,increase_speed|decrease_speed,Versnel <device_name1> en vertraag <device_name2>,1
+fan|fan,turn_on|turn_off,Schakel <device_name1> in en schakel <device_name2> uit,1
+fan|garage_door,increase_speed|close,Verhoog de snelheid van <device_name1> en sluit <device_name2>,1
+fan|garage_door|blinds,increase_speed|close|open,Versnel <device_name1> sluit <device_name2> en open <device_name3>,1
+fan|garage_door|blinds,turn_on|close|close,"Schakel <device_name1> in, sluit <device_name2> en <device_name3>",1
+fan|garage_door|light,turn_off|close|turn_off,Schakel <device_name1> en <device_name3> uit en sluit <device_name2>,1
+fan|garage_door|lock,turn_off|close|lock,"Schakel <device_name1> uit, sluit <device_name2> en vergrendel <device_name3>",1
+fan|garage_door|lock,turn_on|open|unlock,"Schakel <device_name1> in, open <device_name2> en ontgrendel <device_name3>",1
+fan|light,turn_on|turn_off,Activeer <device_name1> en deactiveer <device_name2>,1
+fan|light|lock,decrease_speed|toggle|lock,Vertraag <device_name1> schakel <device_name2> in en vergrendel <device_name3>,1
+fan|lock,decrease_speed|unlock,Vertraag de <device_name1> en ontgrendel de <device_name2>,1
+garage_door,close,Sluit de <device_name>,1
+garage_door,close,Verlaag de <device_name>,1
+garage_door,close,Sluit de <device_name>,1
+garage_door,open,Til de <device_name> op,1
+garage_door,open,Open de <device_name>,1
+garage_door,open,Verhoog de <device_name>,1
+garage_door,stop,Bevries de <device_name>,1
+garage_door,stop,Stop de <device_name>,1
+garage_door,stop,Stop de <device_name>,1
+garage_door,toggle,Draai de status <device_name> om,1
+garage_door,toggle,Wijzig de status <device_name>,1
+garage_door,toggle,Schakel <device_name> in of uit,1
+garage_door|blinds,open|open,Open de <device_name1> en til de <device_name2> op,1
+garage_door|fan,close|turn_off,Sluit <device_name1> en deactiveer <device_name2>,1
+garage_door|light,open|turn_on,Open <device_name1> en activeer <device_name2>,1
+garage_door|lock,open|unlock,Open <device_name1> en ontgrendel <device_name2>,1
+light,toggle,Schakel de <device_name> in of uit,1
+light,toggle,Wijzig de status <device_name>,1
+light,toggle,Schakel de status <device_name> in,1
+light,turn_off,Deactiveer de <device_name>,1
+light,turn_off,Schakel de <device_name> uit,1
+light,turn_off,Schakel <device_name> uit,1
+light,turn_on,Activeer de <device_name>,1
+light,turn_on,Kun je <device_name> inschakelen?,1
+light,turn_on,Schakel de <device_name> in,1
+light|blinds,turn_off|close,Schakel <device_name1> uit en sluit <device_name2>,1
+light|blinds|fan,turn_on|close|decrease_speed,"Schakel <device_name1> in, sluit <device_name2> en vertraag <device_name3>",1
+light|blinds|garage_door,turn_on|open|close,"Schakel <device_name1> in, open <device_name2> en sluit <device_name3>",1
+light|blinds|lock,turn_off|close|lock,"Schakel de <device_name1> uit, sluit de <device_name2> en vergrendel de <device_name3>",1
+light|blinds|lock,turn_off|close|unlock,"Schakel <device_name1> uit, sluit <device_name2> en ontgrendel <device_name3>",1
+light|fan,toggle|decrease_speed,Schakel <device_name1> in en vertraag <device_name2>,1
+light|fan,toggle|increase_speed,Schakel <device_name1> in en versnel <device_name2>,1
+light|fan,turn_off|turn_on,Schakel <device_name1> uit en zet <device_name2> aan,1
+light|fan,turn_on|toggle,Schakel <device_name1> in en schakel <device_name2> in,1
+light|fan,turn_on|turn_off,Schakel <device_name1> in en schakel <device_name2> uit,1
+light|fan,turn_on|turn_on,Schakel zowel <device_name1> als <device_name2> in,1
+light|fan,turn_on|turn_on,Schakel <device_name1> en <device_name2> in,1
+light|fan|blinds,toggle|increase_speed|open,Schakel <device_name1> in om <device_name2> te versnellen en open <device_name3>,1
+light|fan|blinds,turn_off|decrease_speed|close,"Schakel <device_name1> uit, vertraag <device_name2> en sluit <device_name3>",1
+light|fan|blinds,turn_off|turn_off|close,Schakel <device_name1> en <device_name2> uit en sluit <device_name3>,1
+light|fan|garage_door,toggle|decrease_speed|open,"Schakel <device_name1> in, vertraag <device_name2> en open <device_name3>",1
+light|fan|garage_door,turn_off|turn_on|close,"Schakel <device_name1> uit, schakel <device_name2> in en sluit <device_name3>",1
+light|fan|garage_door,turn_on|toggle|open,"Schakel de <device_name1> in, draai de <device_name2> om en til de <device_name3> op",1
+light|fan|garage_door,turn_on|turn_on|open,Schakel <device_name1> en <device_name2> in en open <device_name3>,1
+light|fan|lock,toggle|toggle|lock,Schakel zowel <device_name1> als <device_name2> in en vergrendel <device_name3>,1
+light|fan|lock,turn_off|turn_off|unlock,Schakel <device_name1> en <device_name2> uit en ontgrendel <device_name3>,1
+light|fan|lock,turn_on|increase_speed|lock,"Schakel <device_name1> in, versnel <device_name2> en vergrendel <device_name3>",1
+light|fan|lock,turn_on|turn_on|unlock,Schakel zowel <device_name1> als <device_name2> in en ontgrendel <device_name3>,1
+light|garage_door,toggle|stop,Schakel <device_name1> in en stop <device_name2>,1
+light|garage_door,turn_on|open,Schakel <device_name1> in en open <device_name2>,1
+light|garage_door,turn_on|open,Schakel <device_name1> in en open <device_name2>,1
+light|garage_door|lock,turn_on|open|lock,"Schakel <device_name1> in, open <device_name2> en vergrendel <device_name3>",1
+light|light,toggle|toggle,Schakel zowel <device_name1> als <device_name2> in of uit,1
+light|light,turn_on|turn_off,Schakel <device_name1> in en schakel <device_name2> uit,1
+light|light|fan,toggle|toggle|decrease_speed,Schakel zowel <device_name1> als <device_name2> in en vertraag <device_name3>,1
+light|light|fan,toggle|turn_on|increase_speed,"Schakel <device_name1> in, schakel <device_name2> in en versnel <device_name3>",1
+light|light|fan,turn_on|turn_off|toggle,"Schakel <device_name1> in, schakel <device_name2> uit en schakel <device_name3> in",1
+light|lock,turn_on|lock,Schakel <device_name1> in en vergrendel <device_name2>,1
+lock,lock,Activeer de vergrendeling <device_name>,1
+lock,lock,Vergrendel de <device_name>,1
+lock,lock,Beveilig de <device_name>,1
+lock,unlock,Schakel de vergrendeling van <device_name> uit,1
+lock,unlock,Ontgrendel de <device_name>,1
+lock,unlock,Maak de <device_name> onveilig,1
+lock|blinds,lock|close,Vergrendel de <device_name1> en verlaag de <device_name2>,1
+lock|garage_door,lock|close,Beveilig de <device_name1> en sluit de <device_name2>,1
+light,turn_on,Zorg ervoor dat <device_name> is ingeschakeld,1
+fan,turn_on,Zorg ervoor dat <device_name> is ingeschakeld,1
+lock|lock|garage_door,lock|lock|close,Zorg ervoor dat <device_name1> en <device_name2> zijn vergrendeld en dat <device_name3> is gesloten,1
+light,turn_off,Zorg ervoor dat <device_name> is uitgeschakeld,1
+fan,turn_off,Zorg ervoor dat <device_name> is uitgeschakeld,1
+garage_door,close,Zorg ervoor dat de <device_name> gesloten is,1
+blinds,open,Zorg ervoor dat de <device_name> open zijn,1
+lock,lock,Zorg ervoor dat <device_name> veilig is,1
+light,toggle,Kun je de <device_name>,1
+fan,increase_speed,Verhoog de snelheid van <device_name>,1
+garage_door,open,Zorg ervoor dat de <device_name> open is,1
+blinds,close,Zorg ervoor dat de <device_name> gesloten zijn,1
+lock,unlock,Zorg ervoor dat <device_name> ontgrendeld is,1
+fan,decrease_speed,Vertraag de <device_name>,1
+light,turn_on,Controleer of de <device_name> is ingeschakeld,1
+garage_door,stop,Stop de <device_name> nu meteen,1
+light,turn_off,Controleer of de <device_name> is uitgeschakeld,1
+garage_door,toggle,Schakel de positie <device_name> in,1
+blinds,toggle,Wijzig de status van de <device_name>,1
+lock,lock,Vergrendel de <device_name>,1
+fan,turn_on,Zorg ervoor dat de <device_name> actief is,1
+switch,turn_on,Kun je <device_name> inschakelen?,1
+switch,turn_off,Schakel <device_name> uit.,1
+switch,toggle,Kunt u <device_name> omschakelen?,1
+switch,turn_on,"Ik heb <device_name> nodig,1
+switch,turn_off,Schakel <device_name> uit",1
+switch,toggle,Kan <device_name> worden omgeschakeld?,1
+switch,turn_on,Activeer <device_name>.,1
+switch,turn_off,Deactiveer <device_name>.,1
+switch,toggle,Is het mogelijk om de <device_name> te wijzigen?,1
+switch,turn_on,Laten we <device_name> aanzetten.,1
+switch,turn_off,We hebben <device_name> niet meer nodig.,1
+switch,toggle,Schakel <device_name> voor mij in.,1
+switch,turn_on,"Schakel <device_name> in,1
+switch,turn_off, ik wil <device_name> nu uitschakelen.""",1
+switch,toggle,Kunt u de status van <device_name> wijzigen?,1
+switch,turn_on,Schakel <device_name> in.,1
+switch,turn_off,"Schakel <device_name> uit,1
+switch,toggle,Een snelle schakelaar van <device_name>",1
+switch,turn_on,<device_name> moet zijn ingeschakeld.,1
+switch,turn_off,Tijd om <device_name> uit te schakelen.,1
+media_player,volume_up,Verhoog het volume op <device_name>.,1
+media_player,volume_up,Zet <device_name> iets hoger.,1
+media_player,volume_up,"Luider op <device_name>,1
+media_player,volume_down,Kun je het volume van <device_name> verlagen?""",1
+media_player,volume_down,Verlaag het volume op <device_name>.,1
+media_player,volume_down,"Zet <device_name>lager,1
+media_player,volume_mute,Mute <apparaatnaam>",1
+media_player,volume_mute,Zet <device_name> even stil.,1
+media_player,volume_mute,Kun je <device_name> dempen?,1
+media_player,media_play,Begin met spelen op <device_name>.,1
+media_player,media_play,Kun je <device_name> spelen?,1
+media_player,media_play,"Speel de media af op <device_name>,1
+media_player,media_pause,Pauze <device_name>.""",1
+media_player,media_pause,Kun je <device_name> pauzeren?,1
+media_player,media_pause,"Houd het afspelen ingedrukt op <device_name>,1
+media_player,media_stop,Stop <device_name> volledig.""",1
+media_player,media_stop,Kun je het afspelen stoppen op <device_name>?,1
+media_player,media_stop,"Beëindig de sessie op <device_name>1
+media_player,media_next_track,Volgende track op <apparaatnaam>",1
+media_player,media_next_track,Ga <device_name> verder naar het volgende nummer.,1
+media_player,media_next_track,Sla dit nummer over op <device_name>.,1
+media_player,media_previous_track,"Vorig nummer op <device_name>1
+media_player,media_previous_track,Terugspoelen naar het vorige nummer op <apparaatnaam>.""",1
+media_player,media_previous_track,Kunnen we een nummer teruggaan op <device_name>?,1
+climate,set_temperature,Stel de temperatuur in op <temp_f> graden.,8
+climate,set_temperature,Kun je de temperatuur wijzigen in <temp_c> Celsius?,8
+climate,set_temperature,"Ik wil de kamer op <temp_f> graden Fahrenheit,8
+climate,set_temperature,Pas de temperatuur aan naar <temp_f> graden.""",8
+climate,set_temperature,Kun je de temperatuur verlagen naar <temp_c>?,8
+climate,set_temperature,Verhoog de temperatuur naar <temp_f> graden,8
+climate,set_humidity,Verhoog de luchtvochtigheid naar <humidity>.,8
+climate,set_humidity,Stel het vochtigheidsniveau in op <humidity> procent.,8
+climate,set_humidity,Kun je de luchtvochtigheid aanpassen naar <humidity> procent?,8
+climate,set_fan_mode,Zet de klimaatventilator op <fan_mode> snelheid.,8
+climate,set_fan_mode,Zet de klimaatventilator op <fan_mode>.,8
+climate,set_fan_mode,Zet de airconditioningventilator op <fan_mode>.,8
+climate,set_hvac_mode,Schakel het systeem naar de <hvac_mode>-modus.,8
+climate,set_hvac_mode,Kunnen we de HVAC op <hvac_mode> zetten?,8
+climate,set_hvac_mode,Wijzig de HVAC in <hvac_mode>.,8
+light,turn_on,Stel de helderheid van <device_name> in op <brightness>%.,8
+light,turn_on,Dim <device_name> tot <brightness> procent helderheid.,8
+light,turn_on,Maak <device_name> lichter naar <brightness>.,8
+light,turn_on,Pas de helderheid van <device_name> aan naar <brightness>.,8
+light,turn_on,Verhoog de helderheid van <device_name> naar <brightness>.,8
+light,turn_on,Verlaag de helderheid van <device_name> naar <brightness>.,8
+light,turn_on,Kunt u het helderheidsniveau van <device_name> instellen op <brightness> procent?,8
+light,turn_on,Ik wil <device_name> een helderheid van <brightness> procent hebben,8
+light,turn_on,Kun je <device_name> <color> maken?,8
+light,turn_on,Wijzig de kleur van <device_name> in <color>.,8
+light,turn_on,Wijzig <device_name> in een <color> tint.,8
+light,turn_on,Stel <device_name> in op <color>.,8
+light,turn_on,"Ik wil dat <device_name><<color>is"",8
+light,turn_on,Kun jij <apparaatnaam> laten stralen in <kleur>?""",8
+light,turn_on,Verander <device_name> in een <color> tint.,8
+light,turn_on,Verander <device_name> <color>.,8
+light,turn_on,Ik wil <device_name> met een <color> instelling.,8
+light,turn_on,Stel <device_name> in op een <color> kleur.,8
+light,turn_on,Stel <device_name> in op een <color> kleur.,8
+light,turn_on,Laat <device_name> oplichten <color>.,8
+light,turn_on,Kunt u <device_name> in <color> veranderen?,8
+light,turn_on,Wijzig <device_name> in <color>.,8
+light,turn_on,Pas de kleur van <device_name> aan naar <color>.,8
+light,turn_on,Wijzig de kleur van <device_name> naar <color>.,8
+light,turn_on,Kan <device_name> nu <color> zijn?,8
+light,turn_on,Laten we <device_name> in <color> gebruiken.,8
+light,turn_on,Ik wil dat <device_name> verandert in <color>.,8
+light,turn_on,Kan <device_name> een <color> lampje weergeven?,8
+light,turn_on,Stel de kleur van <device_name> in op <color>,8
+vacuum,start,Begin met opschonen met <device_name>.,2
+vacuum,start,Begin met stofzuigen met <device_name>.,2
+vacuum,start,Activeer <device_name> om op te schonen.,2
+vacuum,start,Kunt u <device_name> starten?,2
+vacuum,start,"Hé, ga <device_name> aan de slag, wil je?",2
+vacuum,stop,Stop de werking van <device_name>.,2
+vacuum,stop,Stop de huidige taak van <device_name>,2
+vacuum,stop,Stop <device_name>,2
+vacuum,stop,Kun je <device_name> laten stoppen?,2
+vacuum,stop,Voorkom dat <device_name> wordt opgeschoond.,2
+vacuum,pause,Bevries de huidige taak van <device_name>.,2
+vacuum,pause,Zou je <device_name> even willen pauzeren?,2
+vacuum,pause,"Hé, kunnen we <device_name> op pauze zetten, alsjeblieft?",2
+vacuum,pause,Pauzeer het opschonen van <device_name>.,2
+vacuum,pause,Pauzeer <device_name>,2
+vacuum,return_to_base,Stuur <device_name> terug naar zijn basis.,2
+vacuum,return_to_base,"Stuur <device_name> alstublieft terug naar de basis, als u dat wilt.",2
+vacuum,return_to_base,"Tijd om naar huis te gaan, <device_name>. Kun je het terugbellen?",2
+vacuum,return_to_base,Stuur <device_name> naar het dock.,2
+vacuum,return_to_base,Breng <device_name> terug naar het laadstation.,2
+todo,add_item,Voeg <todo> toe aan mijn <device_name>.,8
+todo,add_item,Kun je <todo> toevoegen aan de <device_name>?,8
+todo,add_item,Ik wil <todo> toevoegen aan mijn <device_name>.,8
+todo,add_item,Ga je gang en voeg <todo> toe aan de <device_name>.,8
+todo,add_item,Kunt u <todo> invoeren in mijn <device_name>?,8
+todo,add_item,Plaats <todo> in de <device_name>.,8
+todo,add_item,Mag ik verzoeken dat <todo> wordt opgenomen in de <device_name>?,8
+todo,add_item,Het zou zeer gewaardeerd worden als <todo> op de <device_name> gezet zou kunnen worden.,8
+todo,add_item,Zullen we <todo> toevoegen aan mijn <device_name>?,8
+todo,add_item,Laten we <todo> toevoegen aan de <device_name>',8
+todo,add_item,Zou je <todo> op mijn <device_name> kunnen plaatsen?,8
+todo,add_item,Wilt u zo vriendelijk zijn om <todo> op te nemen in de <device_name>?,8
+todo,add_item,Is het mogelijk om <todo> op te nemen in de <device_name>?,8
+todo,add_item,Kunnen we <todo> toevoegen aan mijn <device_name>?,8
+timer,start,Stel mijn <device_name> in op <duration>.,8
+timer,start,Schakel de timer <device_name> in voor <duration>.,8
+timer,start,Stel de <device_name> in op <duration>.,8
+timer,start,Start de timer <device_name> voor <duration>.,8
+timer,start,Stel een <duration> <device_name> in.,8
+timer,cancel,Annuleer de timer <device_name>.,8
+timer,cancel,Stop alstublieft mijn <device_name>.,8
+timer,cancel,Schakel <device_name> uit.,8
+timer,cancel,Schakel de timer van <device_name> uit.,8
+timer,cancel,De <device_name> is niet langer nodig.,8

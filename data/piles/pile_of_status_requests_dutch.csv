@@ -1,0 +1,274 @@
+device_type,state,dutch_phrase,assistant_response
+light,on,Staat de <device_name> aan,De <device_name> is momenteel ingeschakeld
+light,on,Kunt u mij de status van <device_name> vertellen?,De <device_name> is ingeschakeld
+light,off,Wat doet de <device_name>,De <device_name> is uitgeschakeld
+light,off,Staat de <device_name> uit,De <device_name> is momenteel uitgeschakeld
+fan,on,Staat de <device_name> aan,De <device_name> is momenteel ingeschakeld
+fan,on,Kunt u controleren of de <device_name> werkt,De <device_name> is ingeschakeld
+fan,off,Staat de <device_name> uit,De <device_name> is momenteel uitgeschakeld
+fan,off,Wat is de huidige status van de <device_name>,De <device_name> is uitgeschakeld
+garage_door,open,Is de <device_name> geopend,De <device_name> is momenteel geopend
+garage_door,open,Kunt u mij vertellen of de <device_name> open is,De <device_name> is geopend
+garage_door,closed,Is de <device_name> gesloten,De <device_name> is momenteel gesloten
+garage_door,closed,Wat is de status van de <device_name>,De <device_name> is gesloten
+garage_door,opening,Is de <device_name> opening,De <device_name> wordt momenteel geopend
+garage_door,opening,Wat doet de <device_name>,De <device_name> wordt geopend
+garage_door,closing,Sluit de <device_name>,De <device_name> wordt momenteel gesloten
+garage_door,closing,Kunt u mij vertellen of de <device_name> wordt gesloten,De <device_name> wordt gesloten
+blinds,open,Zijn de <device_name> open,De <device_name> zijn momenteel geopend
+blinds,open,Wat is de status van de <device_name>,De <device_name> zijn geopend
+blinds,closed,Zijn de <device_name> gesloten,De <device_name> zijn momenteel gesloten
+blinds,closed,Kunt u controleren of de <device_name> gesloten zijn,De <device_name> zijn gesloten
+blinds,opening,Zijn de <device_name> opening,De <device_name> worden momenteel geopend
+blinds,opening,Wat doet de <device_name>,De <device_name> worden geopend
+blinds,closing,Sluit de <device_name>,De <device_name> worden momenteel gesloten
+blinds,closing,Wat is de status van de <device_name>,De <device_name> worden gesloten
+media_player,on,Staat de <device_name> aan,De <device_name> is momenteel ingeschakeld
+media_player,on,Wat is de huidige status van de <device_name>,De <device_name> is ingeschakeld
+media_player,off,Staat de <device_name> uit,De <device_name> is momenteel uitgeschakeld
+media_player,off,Kunt u mij vertellen of de <device_name> is uitgeschakeld,De <device_name> is uitgeschakeld
+media_player,idle,Wat is de <device_name> aan het doen,De <device_name> is inactief
+media_player,idle,Is de <device_name> inactief,De <device_name> is momenteel inactief
+media_player,playing,Speelt de <device_name>,De <device_name> wordt momenteel afgespeeld
+media_player,playing,Kunt u mij vertellen of de <device_name> wordt afgespeeld,De <device_name> wordt afgespeeld
+media_player,paused,Wat is de status van de <device_name>,De <device_name> is gepauzeerd
+media_player,paused,Is de <device_name> gepauzeerd,De <device_name> is momenteel gepauzeerd
+media_player,standby,Wat doet de <device_name>,De <device_name> staat in stand-by
+media_player,standby,Staat de <device_name> in stand-by,De <device_name> staat momenteel in stand-by
+lock,unlocked,Is de <device_name> ontgrendeld,De <device_name> is momenteel ontgrendeld
+lock,unlocked,Wat is de status van de <device_name>,De <device_name> is ontgrendeld
+lock,locked,Is de <device_name> vergrendeld,De <device_name> is momenteel vergrendeld
+lock,locked,Kunt u mij vertellen of de <device_name> is vergrendeld,De <device_name> is vergrendeld
+lock,unlocking,Wat doet de <device_name>,De <device_name> wordt ontgrendeld
+lock,unlocking,Is de <device_name> ontgrendeling,De <device_name> wordt momenteel ontgrendeld
+lock,locking,Is de <device_name> vergrendeld,De <device_name> is momenteel vergrendeld
+lock,locking,Wat is de status van de <device_name>,De <device_name> is aan het vergrendelen
+lock,jammed,Wat doet de <device_name>,De <device_name> is vastgelopen
+lock,jammed,Is de <device_name> vastgelopen,De <device_name> is momenteel vastgelopen
+light,on,Is de <device_name> actief,De <device_name> is momenteel ingeschakeld
+light,on,Wordt de <device_name> aangedreven,De <device_name> is ingeschakeld
+light,off,Is de <device_name> gedeactiveerd,De <device_name> is momenteel uitgeschakeld
+fan,on,Draait de <device_name>,De <device_name> is momenteel ingeschakeld
+fan,on,Blaast de <device_name> lucht,De <device_name> is ingeschakeld
+fan,off,Is de <device_name> inactief,De <device_name> is momenteel uitgeschakeld
+fan,off,Is de <device_name> nog steeds,De <device_name> is uitgeschakeld
+lock,unlocked,Is de <device_name> geopend,De <device_name> is momenteel ontgrendeld
+lock,unlocked,Is de <device_name> onbeveiligd,De <device_name> is ontgrendeld
+lock,locked,Is de <device_name> veilig,De <device_name> is momenteel vergrendeld
+lock,locked,Is de <device_name> verzegeld,De <device_name> is vergrendeld
+garage_door,open,Is de <device_name> niet verzegeld,De <device_name> is momenteel geopend
+garage_door,closed,Is de <device_name> gesloten,De <device_name> is momenteel gesloten
+blinds,open,Is de <device_name> opgetrokken,De <device_name> zijn momenteel geopend
+blinds,closed,Is de <device_name> naar beneden gehaald,De <device_name> zijn momenteel gesloten
+light,on,Is de <device_name> verlicht,De <device_name> is momenteel ingeschakeld
+light,off,Is de <device_name> uitgeschakeld,Ja <device_name> is uitgeschakeld
+light,on,"Uh, kunt u controleren of de <device_name> aanstaat of zoiets",De <device_name> is momenteel ingeschakeld
+light,off,"Hé, wat is er aan de hand met de <device_name>, staat deze uit",De <device_name> is momenteel uitgeschakeld
+fan,on,Zo dwarrelt de <device_name> weg,De <device_name> staat inderdaad aan
+fan,off,Enig idee of de <device_name> is uitgeschakeld,De <device_name> is momenteel uitgeschakeld
+lock,unlocked,"Hé, is de <device_name> ontgrendeld of zo",De <device_name> is momenteel ontgrendeld
+lock,locked,Kunt u mij vertellen of de <device_name> allemaal is vergrendeld,De <device_name> is inderdaad vergrendeld
+garage_door,open,"Hé, hebben we de <device_name> open gelaten","Ja, de <device_name> is momenteel geopend"
+garage_door,closed,Is de <device_name> daadwerkelijk gesloten,De <device_name> is inderdaad gesloten
+blinds,open,Is de <device_name> actief of zo,De <device_name> zijn momenteel geopend
+blinds,closed,Zo hebben we de <device_name> verlaagd,De <device_name> zijn inderdaad gesloten
+light,on,"Hé, de <device_name> schijnt",De <device_name> is momenteel ingeschakeld
+light,off,"Uh, de <device_name> staat uit",De <device_name> staat inderdaad uit
+fan,on,Kunt u bevestigen of de <device_name> actief is?,De <device_name> is momenteel ingeschakeld
+fan,off,Neemt <device_name> een pauze,De <device_name> is momenteel uitgeschakeld
+lock,unlocked,Zo is de <device_name> open,De <device_name> is momenteel ontgrendeld
+lock,locked,Is de <device_name> vastgeschroefd,De <device_name> is inderdaad vergrendeld
+light,on,Staat de <device_name> uit,Eigenlijk is de <device_name> momenteel ingeschakeld
+light,off,Staat de <device_name> aan,"Nee, de <device_name> is momenteel uitgeschakeld"
+fan,on,Staat de <device_name> uit,Eigenlijk is de <device_name> momenteel ingeschakeld
+fan,off,Blaast de <device_name> lucht,"Sorry, de <device_name> is momenteel uitgeschakeld"
+lock,locked,Is de <device_name> ontgrendeld,"Nee, de <device_name> is momenteel vergrendeld"
+lock,unlocked,Is de <device_name> vergrendeld,"Nee, de <device_name> is momenteel ontgrendeld"
+garage_door,open,Is de <device_name> gesloten,"Nee, de <device_name> is momenteel geopend"
+garage_door,closed,Is de <device_name> geopend,"Nee, de <device_name> is momenteel gesloten"
+blinds,open,Zijn de <device_name> gesloten,"Nee, de <device_name> zijn momenteel open"
+blinds,closed,Zijn de <device_name> open,"Nee, de <device_name> zijn momenteel gesloten"
+light,on,Kunt u controleren of de <device_name> is uitgeschakeld,"Nee, de <device_name> is daadwerkelijk ingeschakeld"
+light,off,"Hé, de <device_name> schijnt","Nee, de <device_name> is momenteel uitgeschakeld"
+fan,on,Neemt <device_name> een pauze,"Nee, de <device_name> is momenteel ingeschakeld"
+fan,off,Dwarrelt de <device_name> weg,"Nee, de <device_name> is momenteel uitgeschakeld"
+lock,unlocked,Is de <device_name> vastgeschroefd,"Nee, de <device_name> is momenteel ontgrendeld"
+lock,locked,Is de <device_name> gratis en duidelijk,"Nee, de <device_name> is feitelijk vergrendeld"
+garage_door,open,Is de <device_name> gesloten,"Nee, de <device_name> is momenteel geopend"
+garage_door,closed,Hebben we de <device_name> open gelaten,"Nee, de <device_name> is gesloten"
+blinds,open,Hebben we de <device_name>,"Nee, de <device_name> zijn daadwerkelijk open"
+blinds,closed,Is de <device_name> opgetrokken,"Nee, de <device_name> zijn momenteel gesloten"
+media_player,on,Staat de <device_name> uit,"Nee, de <device_name> is momenteel ingeschakeld"
+media_player,off,Speelt de <device_name>,"Nee, de <device_name> is momenteel uitgeschakeld"
+media_player,idle,Speelt de <device_name> muziek af,"Nee, de <device_name> is momenteel inactief"
+media_player,playing,Is de <device_name> gepauzeerd,"Nee, de <device_name> speelt daadwerkelijk af"
+media_player,paused,Staat de <device_name> in stand-by,"Nee, de <device_name> is momenteel gepauzeerd"
+media_player,standby,Speelt de <device_name>,"Nee, de <device_name> staat in stand-by"
+garage_door,opening,Sluit de <device_name>,"Nee, de <device_name> wordt momenteel geopend"
+garage_door,closing,Is de <device_name> opening,"Nee, de <device_name> wordt momenteel gesloten"
+blinds,opening,Sluit de <device_name>,"Nee, de <device_name> wordt geopend"
+blinds,closing,Zijn de <device_name> opening,"Nee, de <device_name> wordt gesloten"
+lock,unlocking,Is de <device_name> vergrendeld,"Nee, de <device_name> wordt ontgrendeld"
+lock,locking,Is de <device_name> ontgrendeling,"Nee, de <device_name> is aan het vergrendelen"
+lock,jammed,Is de <device_name> ontgrendeld,"Nee, de <device_name> is vastgelopen"
+light,on,Is de <device_name> donker,"Nee, de <device_name> is momenteel ingeschakeld"
+light,off,Schijnt de <device_name>,"Nee, de <device_name> is uitgeschakeld"
+fan,on,Is de <device_name> inactief,"Nee, de <device_name> is daadwerkelijk ingeschakeld"
+fan,off,Blaast de <device_name> lucht,"Nee, de <device_name> is momenteel uitgeschakeld"
+lock,unlocked,Is de <device_name> veilig,"Nee, de <device_name> is momenteel ontgrendeld"
+lock,locked,Is de <device_name> geopend,"Nee, de <device_name> is vergrendeld"
+lock,jammed,Is de <device_name> vergrendeld,"Nee, de <device_name> is vastgelopen"
+light,on,Staat de <device_name> uit,"Nee, de <device_name> is ingeschakeld"
+light,off,Is de <device_name> actief,"Nee, de <device_name> is uitgeschakeld"
+light,on,Is de <device_name> aan of uit,De <device_name> is ingeschakeld
+light,off,Is de <device_name> aan of uit,De <device_name> is uitgeschakeld
+fan,on,Is de <device_name> aan of uit,De <device_name> is ingeschakeld
+fan,off,Is de <device_name> aan of uit,De <device_name> is uitgeschakeld
+garage_door,open,Is de <device_name> open of gesloten,De <device_name> is geopend
+garage_door,closed,Is de <device_name> open of gesloten,De <device_name> is gesloten
+blinds,open,Zijn de <device_name> open of gesloten,De <device_name> zijn geopend
+blinds,closed,Zijn de <device_name> open of gesloten,De <device_name> zijn gesloten
+media_player,on,Is de <device_name> aan of uit,De <device_name> is ingeschakeld
+media_player,off,Is de <device_name> aan of uit,De <device_name> is uitgeschakeld
+lock,unlocked,Is de <device_name> vergrendeld of ontgrendeld,De <device_name> is ontgrendeld
+lock,locked,Is de <device_name> vergrendeld of ontgrendeld,De <device_name> is vergrendeld
+media_player,playing,Speelt de <device_name> af of is deze gepauzeerd,De <device_name> wordt afgespeeld
+media_player,paused,Speelt de <device_name> af of is deze gepauzeerd,De <device_name> is gepauzeerd
+garage_door,opening,Is de <device_name> geopend of gesloten,De <device_name> wordt geopend
+garage_door,closing,Is de <device_name> geopend of gesloten,De <device_name> wordt gesloten
+blinds,opening,Wordt de <device_name> geopend of gesloten,De <device_name> worden geopend
+blinds,closing,Wordt de <device_name> geopend of gesloten,De <device_name> worden gesloten
+lock,unlocking,Is de <device_name> vergrendelend of ontgrendelend,De <device_name> wordt ontgrendeld
+lock,locking,Is de <device_name> vergrendelend of ontgrendelend,De <device_name> is aan het vergrendelen
+lock,jammed,Is de <device_name> vergrendeld of vastgelopen,De <device_name> is vastgelopen
+media_player,idle,Is de <device_name> inactief of in stand-by,De <device_name> is inactief
+media_player,standby,Is de <device_name> inactief of in stand-by,De <device_name> staat in stand-by
+light,on,Staat de <device_name> aan of gedimd,De <device_name> is ingeschakeld
+light,off,Staat de <device_name> aan of gedimd,De <device_name> is uitgeschakeld
+fan,on,Draait de <device_name> of staat hij stil,De <device_name> draait
+fan,off,Draait de <device_name> of staat hij stil,De <device_name> is nog steeds
+lock,unlocked,Is de <device_name> veilig of onveilig,De <device_name> is onveilig
+lock,locked,Is de <device_name> veilig of onveilig,De <device_name> is veilig
+lock,jammed,Is de <device_name> veilig of vastgelopen?,De <device_name> is vastgelopen
+light,on,Wat is de huidige staat van de <device_name>,De <device_name> is ingeschakeld
+light,off,Hoe ziet de <device_name> er momenteel uit,De <device_name> is uitgeschakeld
+fan,on,Wat gebeurt er met de <device_name>,De <device_name> is ingeschakeld
+fan,off,Kunt u mij een update geven over de <device_name>,De <device_name> is uitgeschakeld
+garage_door,open,"Vul mij de <device_name> in, wil je",De <device_name> is geopend
+garage_door,closed,Wat is de situatie met de <device_name>,De <device_name> is gesloten
+blinds,open,Wat is het laatste nieuws over de <device_name>,De <device_name> zijn geopend
+blinds,closed,Kunt u mij op de hoogte houden van de <device_name>,De <device_name> zijn gesloten
+media_player,on,Wat is de status van de <device_name>,De <device_name> is ingeschakeld
+media_player,off,Hoe gaat het met <device_name>?,De <device_name> is uitgeschakeld
+lock,unlocked,Wat is het woord op de <device_name>,De <device_name> is ontgrendeld
+lock,locked,Hoe gaat het met de <device_name>,De <device_name> is vergrendeld
+media_player,playing,Kunt u mij informatie geven over de <device_name>,De <device_name> wordt afgespeeld
+media_player,paused,Wat is er aan de hand met de <device_name>,De <device_name> is gepauzeerd
+garage_door,opening,Enig nieuws over de <device_name>,De <device_name> wordt geopend
+garage_door,closing,Wat is de primeur over de <device_name>,De <device_name> wordt gesloten
+blinds,opening,Er zijn updates over de <device_name>,De <device_name> worden geopend
+blinds,closing,Wat gebeurt er nu met de <device_name>,De <device_name> worden gesloten
+lock,unlocking,Wat is de nieuwste update voor de <device_name>,De <device_name> wordt ontgrendeld
+lock,locking,Eventuele wijzigingen met de <device_name>,De <device_name> is aan het vergrendelen
+light,on,Wat is er aan de hand met de <device_name>,De <device_name> is ingeschakeld
+light,off,wat is de status van <device_name>,De <device_name> is uitgeschakeld
+fan,on,Is <device_name> actief,De <device_name> is ingeschakeld
+fan,off,Status van <device_name>,De <device_name> is uitgeschakeld
+garage_door,open,<device_name> update,De <device_name> is geopend
+garage_door,closed,<device_name> huidige status,De <device_name> is gesloten
+blinds,open,Hoe gaat het met de <device_name>,De <device_name> zijn geopend
+blinds,closed,Update op <device_name>,De <device_name> zijn gesloten
+media_player,on,wat is de status van <device_name>,De <device_name> is ingeschakeld
+media_player,off,Al het nieuws over <device_name>,De <device_name> is uitgeschakeld
+lock,unlocked,Hoe gaat het met de <device_name>,De <device_name> is ontgrendeld
+lock,locked,<device_name> oké,De <device_name> is vergrendeld
+media_player,playing,Is <device_name> actief,De <device_name> wordt afgespeeld
+media_player,paused,<device_name> status,De <device_name> is gepauzeerd
+garage_door,opening,Wat is <device_name> aan het doen,De <device_name> wordt geopend
+garage_door,closing,Status van <device_name>,De <device_name> wordt gesloten
+blinds,opening,<device_name> update,De <device_name> worden geopend
+blinds,closing,Hoe gaat het met de <device_name>,De <device_name> worden gesloten
+lock,unlocking,Staat van <device_name>,De <device_name> wordt ontgrendeld
+lock,locking,Is <device_name> in orde,De <device_name> is aan het vergrendelen
+light,on,Wat is <device_name> aan het doen,De <device_name> is ingeschakeld
+light,off,Is <device_name> actief,De <device_name> is uitgeschakeld
+fan,on,<device_name> status nu,De <device_name> is ingeschakeld
+fan,off,Huidige status van <device_name>,De <device_name> is uitgeschakeld
+light,on,Werkt <device_name>,De <device_name> is ingeschakeld
+light,off,Update op <device_name>,De <device_name> is uitgeschakeld
+fan,on,Hoe gaat het met de <device_name>,De <device_name> is ingeschakeld
+fan,off,Status van <device_name>,De <device_name> is uitgeschakeld
+light,on,voorwaarde <device_name>,De <device_name> is ingeschakeld
+light,off,Wat is er aan de hand met <device_name>,De <device_name> is uitgeschakeld
+media_player,on;<volume>,Wat is het volume op <device_name>?,Het volume op <device_name> bevindt zich op <volume>.
+media_player,off,Kunt u het volumeniveau van <device_name> controleren?,"<device_name> staat uit, dus ik kan het volumeniveau momenteel niet controleren."
+media_player,idle,"Ik heb het huidige volume van <device_name> nodig, alstublieft.",Het huidige volume van <device_name> is <volume>.
+media_player,playing,Is het volume te luid op <device_name>?,Het volume op <device_name> is momenteel ingesteld op <volume>.
+media_player,paused,Waar was het volume op ingesteld voordat <device_name> werd gepauzeerd?,"Voordat het werd gepauzeerd, had <device_name> een volumeniveau van <volume>."
+media_player,playing,Kunt u het volume van <device_name> iets verhogen?,Ik heb het volume op <device_name> verhoogd. Het staat nu op <volume>.
+media_player,playing,Is het volume gedempt op <device_name>?,Het volume op <device_name> is niet gedempt. Het staat op <volume>.
+media_player,on,Wat wordt er momenteel afgespeeld op <device_name>?,<media> wordt momenteel afgespeeld op <device_name>.
+media_player,off,Wordt er iets afgespeeld op <device_name>?,Er wordt niets afgespeeld op <device_name> omdat deze momenteel is uitgeschakeld.
+media_player,idle,Kun je me vertellen wat er voor het laatst is afgespeeld op <device_name>?,Het laatste medium dat werd afgespeeld op <device_name> was <media>.
+media_player,playing,Wat wordt er momenteel afgespeeld op <device_name>?,Het nummer <media> wordt momenteel afgespeeld op <device_name>.
+media_player,paused,Welke media zijn gepauzeerd op <device_name>?,<media> is gepauzeerd op <device_name>.
+media_player,on,"Ik hoor iets van <device_name>, wat is het?",<device_name> speelt momenteel niets af.
+media_player,playing,"Ik vind dit nummer leuk op <device_name>, wat is het?",Je luistert naar <media> op <device_name>.
+media_player,paused,Kun je de film een ​​naam geven die op <device_name> staat?,De film die momenteel is gepauzeerd op <device_name> is <media>.
+media_player,standby,Wat was de laatste show die op <device_name> werd bekeken?,"De laatste show die op <device_name> werd bekeken, was <media>."
+media_player,buffering,Welke aflevering staat momenteel op <device_name>?,De aflevering op <device_name> is <media>.
+light,on;<color>;<brightness>,Wat is de helderheid van <device_name>?,De helderheid van <device_name> is momenteel <brightness>.
+light,on;<color>;<brightness>,Kunt u mij de kleur van <device_name> vertellen?,<device_name> toont momenteel <color>.
+light,on;<color>;<brightness>,Is <device_name> ingesteld op helder of gedimd?,<device_name> is ingesteld op een <brightness> helderheidsniveau.
+light,on;<color>;<brightness>,Welke tint wordt <device_name> weergegeven?,<device_name> geeft een <color> tint weer.
+light,on;<color>;<brightness>,Hoe helder is <device_name> momenteel?,<device_name> heeft momenteel een helderheid van <brightness>%.
+light,on;<color>;<brightness>,Ik wil graag de huidige kleur van <device_name> weten.,De huidige kleur van <device_name> is <color>.
+light,on;<color>;<brightness>,Is <device_name> meer aan de donkere kant of aan de positieve kant?,<device_name> bevindt zich meer aan de <brightness>-kant.
+light,on;<color>;<brightness>,Op welke kleurinstelling staat <device_name>?,<device_name> is ingesteld op de kleurinstelling <color>.
+light,on;<color>;<brightness>,Kunt u het helderheidsniveau van <device_name> voor mij controleren?,"Natuurlijk, het helderheidsniveau van <device_name> is <brightness>."
+light,on;<color>;<brightness>,"Vertel eens, wat is de huidige tint van <device_name>?",De huidige tint van <device_name> is <color>.
+light,off,Wat is de helderheid van <device_name>?,Het apparaat <device_name> is uitgeschakeld.
+light,off,Kunt u mij de kleur van <device_name> vertellen?,<device_name> is uitgeschakeld.
+light,off,Is <device_name> ingesteld op helder of gedimd?,"Nee, <device_name> is uitgeschakeld."
+light,off,Welke tint wordt <device_name> weergegeven?,<device_name> is feitelijk uitgeschakeld.
+light,off,Hoe helder is <device_name> momenteel?,<device_name> is uitgeschakeld.
+media_player,playing;<media>;<volume>,Wat wordt er momenteel afgespeeld op <device_name>?,<device_name> speelt <media> af op volumeniveau <volume>.
+media_player,paused;<media>;<volume>,Kunt u mij vertellen wat er is gepauzeerd op <device_name>?,<device_name> heeft <media> gepauzeerd op volumeniveau <volume>.
+media_player,idle;<volume>,Wordt er iets afgespeeld op <device_name>?,<device_name> is momenteel inactief en het volume is ingesteld op <volume>.
+media_player,playing;<media>;<volume>,Welk nummer wordt <device_name> afgespeeld?,<device_name> speelt het nummer <media> af op volume <volume>.
+media_player,paused;<media>;<volume>,Wat was het laatste dat op <device_name> werd afgespeeld?,"De laatste media die werd afgespeeld op <device_name> was <media>, momenteel gepauzeerd op volume <volume>."
+media_player,idle;<volume>,Is <device_name> momenteel actief?,"<device_name> is momenteel inactief, het volume is ingesteld op <volume>."
+media_player,playing;<media>;<volume>,Wat staat er momenteel op <device_name>?,<device_name> speelt momenteel <media> af op volume <volume>.
+media_player,paused;<media>;<volume>,Ik ben vergeten wat ik heb gepauzeerd op <device_name>. Kun je me eraan herinneren?,Je hebt <media> gepauzeerd op <device_name> en het volume is ingesteld op <volume>.
+media_player,idle;<volume>,Is <device_name> in- of uitgeschakeld?,"<device_name> is ingeschakeld maar inactief, met volume op <volume>."
+media_player,playing;<media>;<volume>,Ik wil graag weten wat er wordt afgespeeld op <device_name>.,Momenteel wordt <media> afgespeeld op <device_name> op volumeniveau <volume>.
+vacuum,cleaning,Is het <device_name>-vacuüm momenteel actief?,Het vacuüm is actief.
+vacuum,cleaning,Staat het vacuüm <device_name> aan?,Het is. Uw woning wordt momenteel schoongemaakt.
+vacuum,cleaning,Is <device_name> aan het opschonen?,"Ja, <device_name> is momenteel aan het stofzuigen."
+vacuum,cleaning,Wat doet het <device_name>-vacuüm momenteel?,De stofzuiger <device_name> is momenteel het huis aan het schoonmaken.
+vacuum,cleaning,Wat doet <device_name> momenteel?,<device_name> is momenteel aan het opschonen.
+vacuum,docked,Wat doet het <device_name>-vacuüm momenteel?,Het <device_name>-vacuüm is momenteel gedockt.
+vacuum,docked,Wat doet <device_name> momenteel?,<device_name> is momenteel gedockt.
+vacuum,docked,Staat <device_name> momenteel op de basis?,"Ja, <device_name> staat aan de basis."
+vacuum,docked,Waar is het <device_name>-vacuüm?,Momenteel op de kade.
+vacuum,paused,Wat doet het <device_name>-vacuüm momenteel?,Het <device_name>-vacuüm is gepauzeerd.
+vacuum,paused,Wat doet <device_name> momenteel?,<device_name> is gepauzeerd.
+vacuum,idle,Wat doet het <device_name>-vacuüm momenteel?,Het <device_name>-vacuüm is gestopt.
+vacuum,idle,Wat doet <device_name> momenteel?,<device_name> is gestopt.
+vacuum,error,Wat doet het <device_name>-vacuüm momenteel?,Het <device_name>-vacuüm zit vast of heeft problemen die moeten worden verholpen.
+vacuum,error,Wat doet <device_name> momenteel?,<device_name> loopt vast of ondervindt problemen.
+todo,1,Hoeveel items staan ​​er momenteel op mijn <device_name>?,Er staat momenteel 1 item op uw <device_name>.
+todo,2,Hoeveel dingen staan ​​er momenteel op de <device_name>?,Er zijn momenteel twee dingen op de <device_name>.
+todo,3,Wat is het huidige aantal items op uw <device_name>?,"Ja, er staan ​​momenteel 3 items op uw <device_name>."
+todo,4,Hoeveel objecten bevinden zich momenteel op <device_name>?,"Ja, er zijn momenteel 4 objecten op de <device_name>."
+todo,5,Kunt u mij vertellen hoeveel stuks er op dit moment op <device_name> staan?,Ik kan je vertellen dat er momenteel 5 stuks op de <device_name> staan.
+todo,6,Wat is nu het aantal items op de <device_name>?,Het aantal items op de <device_name> is nu 6.
+todo,7,Hoeveel eenheden zijn er momenteel te vinden op mijn <device_name>?,Je vindt momenteel 7 eenheden op mijn <device_name>.
+todo,8,Kunt u mij vertellen hoeveel artikelen zich momenteel op de <device_name> bevinden?,Ik wil u graag laten weten dat er momenteel 8 artikelen op de <device_name> staan.
+todo,9,Kunt u bekendmaken hoeveel componenten er momenteel op de <device_name> staan?,Het is voor mij mogelijk om bekend te maken dat er momenteel 9 componenten op de <device_name> staan.
+todo,10,Mag ik vragen naar het aantal artikelen op <device_name> dat momenteel aanwezig is?,Het aantal items op de <device_name> is momenteel 10.
+todo,11,Kunt u mij vertellen hoeveel dingen er nu op de <device_name> staan?,"Ja, ik kan je vertellen dat er nu 11 dingen op de <device_name> staan."
+todo,12,Kunt u mij informeren over het aantal items op de <device_name>?,Ik wil u graag laten weten dat er 12 items op de <device_name> staan.
+timer,active;<duration>;<remaining>,Hoeveel tijd is er nog over op <device_name>?,De <device_name> is ingesteld op <duration>. Er is momenteel <remaining> resterend.
+timer,active;<duration>;<remaining>,Hoe lang duurt het voordat de <device_name> afgaat?,De <device_name> gaat af over <remaining>.
+timer,active;<duration>;<remaining>,Wanneer moet de <device_name> afgaan?,De <device_name> is ingesteld op <duration> en gaat af over <remaining>.
